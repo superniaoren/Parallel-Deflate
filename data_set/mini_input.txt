@@ -1,0 +1,3367 @@
+****The Project Gutenberg Edition of THE WORLD FACTBOOK 1992****
+******This file should be named world92.zip or world92.txt******
+
+Corrected EDITIONS of our etexts get a new NUMBER, world921.txt.
+VERSIONS based on separate sources get new LETTER, world92a.txt.
+
+Information about Project Gutenberg (one page)
+
+We produce about one million dollars for each hour we work.  One
+hundred hours is a conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar, then we produce a
+million dollars per hour; next year we will have to do four text
+files per month, thus upping our productivity to two million/hr.
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers.
+
+We need your donations more than ever!
+
+All donations should be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our paper newsletter go
+to IBC, too)
+
+For these and other matters, please mail to:
+
+David Turner, Project Gutenberg
+Illinois  Benedictine  College
+5700  College  Road
+Lisle, IL 60532-0900
+
+Email requests to:
+Internet:    chipmonk@eagle.ibc.edu (David Turner)
+Compuserve:  chipmonk@eagle.ibc.edu (David Turner)
+Attmail:     internet!chipmonk@eagle.ibc.edu (David Turner)
+MCImail:     (David Turner)
+ADDRESS TYPE: MCI / EMS: INTERNET / MBX:chipmonk@eagle.ibc.edu
+
+When all other email fails try our Michael S. Hart, Executive Director:
+hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please:
+
+FTP directly to the Project Gutenberg archives:
+ftp mrcnext.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext91
+or cd etext92 [for new books]  [now also cd etext/etext92]
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX and AAINDEX
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+****START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START****
+
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+
+By using or reading any part of this PROJECT GUTENBERG-tm etext,
+you indicate that you understand, agree to and accept this
+"Small Print!" statement.  If you do not, you can receive a
+refund of the money (if any) you paid for this etext by sending
+a request within 30 days of receiving it to the person you got
+it from.  If you received this etext on a physical medium (such
+as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm
+etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association (the
+"Project").  Among other things, this means that no one owns a
+United States copyright on or for this work, so the Project (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special
+rules, set forth below, apply if you wish to copy and distribute
+this etext under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable efforts
+to identify, transcribe and proofread public domain works.
+Despite these efforts, the Project's etexts and any medium they
+may be on may contain "Defects".  Among other things, Defects
+may take the form of incomplete, inaccurate or corrupt data,
+transcription errors, a copyright or other intellectual property
+infringement, a defective or damaged disk or other etext medium,
+a computer virus, or computer codes that damage or cannot be
+read by your equipment.
+
+DISCLAIMER
+
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this etext
+from as a PROJECT GUTENBERG-tm etext) disclaims all liability to
+you for damages, costs and expenses, including legal fees, and
+[2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR UNDER STRICT LIABILI-
+TY, OR FOR BREACH OF WARRANTY OR CONTRACT, INCLUDING BUT NOT
+LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL
+DAMAGES, EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any) you
+paid for it by sending an explanatory note within that time to
+the person you received it from.  If you received it on a
+physical medium, you must return it with your note, and such
+person may choose to alternatively give you a replacement copy.
+If you received it electronically, such person may choose to
+alternatively give you a second opportunity to receive it elec-
+tronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise from any
+distribution of this etext for which you are responsible, and
+from [1] any alteration, modification or addition to the etext
+for which you are responsible, or [2] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this "Small
+Print!" and all other references to Project Gutenberg, or:
+
+[1]  Only give exact copies of it.  Among other things, this re-
+     quires that you do not remove, alter or modify the etext or
+     this "small print!" statement.  You may however, if you
+     wish, distribute this etext in machine readable binary,
+     compressed, mark-up, or proprietary form, including any
+     form resulting from conversion by word processing or hyper-
+     text software, but only so long as *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable.  We
+          consider an etext *not* clearly readable if it
+          contains characters other than those intended by the
+          author of the work, although tilde (~), asterisk (*)
+          and underline (_) characters may be used to convey
+          punctuation intended by the author, and additional
+          characters may be used to indicate hypertext links.
+
+     [*]  The etext may be readily converted by the reader at no
+          expense into plain ASCII, EBCDIC or equivalent form
+          by the program that displays the etext (as is the
+          case, for instance, with most word processors).
+
+     [*]  You provide, or agree to also provide on request at no
+          additional cost, fee or expense, a copy of the etext
+          in its original plain ASCII form (or in EBCDIC or
+          other equivalent proprietary form).
+
+[2]   Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee of 20% (twenty percent) of the
+     net profits you derive from distributing this etext under
+     the trademark, determined in accordance with generally
+     accepted accounting practices.  The license fee:
+
+     [*]  Is required only if you derive such profits.  In
+          distributing under our trademark, you incur no
+          obligation to charge money or earn profits for your
+          distribution.
+
+     [*]  Shall be paid to "Project Gutenberg Association /
+          Illinois Benedictine College" (or to such other person
+          as the Project Gutenberg Association may direct)
+          within the 60 days following each date you prepare (or
+          were legally required to prepare) your year-end tax
+          return with respect to your income for that year.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Illinois Benedictine College".
+
+WRITE TO US!  We can be reached at:
+
+Project Gutenberg Director of Communications (PGDIRCOM)
+
+Internet:     pgdircom@vmd.cso.uiuc.edu
+Bitnet:       pgdircom@uiucvmd
+CompuServe:   >internet:pgdircom@.vmd.cso.uiuc.edu
+Attmail:      internet!vmd.cso.uiuc.edu!pgdircom
+
+Drafted by CHARLES B. KRAMER, Attorney
+CompuServe:  72600,2026
+  Internet:  72600.2026@compuserve.com
+       Tel:  (212) 254-5093
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07.02.92*END*
+
+
+
+The Project Gutenberg Edition of THE WORLD FACTBOOK 1992:    January 1, 1993
+
+This edition, as are all Project Gutenberg Editions, is Plain Vanilla ASCII,
+meaning there are no characters other than what you would see on paper, thus
+no page returns, no markup, nothing but the characters you would type if you
+were to copy this from a book on a typewriter.  Repetitive paged headers and
+trailing spaces are not present.  Leading spaces have been preserved in fact
+sections for readability.
+
+Mail subject headers can be searched with leading :'s. . .such as:
+
+:Afghanistan Geography
+:Afghanistan People
+:Afghanistan Government
+:Afghanistan Government
+:Afghanistan Economy
+:Afghanistan Economy
+:Afghanistan Communications
+:Afghanistan Defense Forces
+
+To find the beginning of any country, search for :country
+To find internal information, search for :country section, as above.
+
+
+THE WORLD FACTBOOK 1992
+
+
+:Afghanistan Geography
+
+Total area:
+    647,500 km2
+Land area:
+    647,500 km2
+Comparative area:
+    slightly smaller than Texas
+Land boundaries:
+    5,529 km total; China 76 km, Iran 936 km, Pakistan 2,430 km, Tajikistan
+    1,206 km, Turkmenistan 744 km, Uzbekistan 137 km
+Coastline:
+    none - landlocked
+Maritime claims:
+    none - landlocked
+Disputes:
+    Pashtunistan issue over the North-West Frontier Province with Pakistan;
+    periodic disputes with Iran over Helmand water rights; Pakistan, Saudi
+    Arabia, and Iran continue to support clients in country; power struggles
+    among various groups for control of Kabul, regional rivalries among emerging
+    warlords, and traditional tribal disputes continue
+Climate:
+    arid to semiarid; cold winters and hot summers
+Terrain:
+    mostly rugged mountains; plains in north and southwest
+Natural resources:
+    natural gas, crude oil, coal, copper, talc, barites, sulphur, lead, zinc,
+    iron ore, salt, precious and semiprecious stones
+Land use:
+    arable land 12%; permanent crops NEGL%; meadows and pastures 46%; forest and
+    woodland 3%; other 39%; includes irrigated NEGL%
+Environment:
+    damaging earthquakes occur in Hindu Kush mountains; soil degradation,
+    desertification, overgrazing, deforestation, pollution
+Note:
+    landlocked
+
+:Afghanistan People
+
+Population:
+    US Bureau of the Census - 16,095,664 (July 1992), growth rate 2.4% (1992)
+    and excludes 3,750,796 refugees in Pakistan and 1,607,281 refugees in Iran;
+    note - another report indicates a July 1990 population of 16,904,904,
+    including 3,271,580 refugees in Pakistan and 1,277,700 refugees in Iran
+Birth rate:
+    44 births/1,000 population (1992)
+Death rate:
+    20 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992); note - there are flows across the border
+    in both directions, but data are fragmentary and unreliable
+Infant mortality rate:
+    162 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    45 years male, 43 years female (1992)
+Total fertility rate:
+    6.4 children born/woman (1992)
+Nationality:
+    noun - Afghan(s); adjective - Afghan
+Ethnic divisions:
+    Pashtun 38%, Tajik 25%, Uzbek 6%, Hazara 19%; minor ethnic groups include
+    Chahar Aimaks, Turkmen, Baloch, and others
+Religions:
+    Sunni Muslim 84%, Shi`a Muslim 15%, other 1%
+Languages:
+    Pashtu 35%, Afghan Persian (Dari) 50%, Turkic languages (primarily Uzbek and
+    Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%; much
+    bilingualism
+Literacy:
+    29% (male 44%, female 14%) age 15 and over can read and write (1990 est.)
+Labor force:
+    4,980,000; agriculture and animal husbandry 67.8%, industry 10.2%,
+    construction 6.3%, commerce 5.0%, services and other 10.7%, (1980 est.)
+Organized labor:
+    some small government-controlled unions existed under the former regime but
+    probably now have disbanded
+
+:Afghanistan Government
+
+Long-form name:
+    Islamic State of Afghanistan
+Type:
+    transitional
+Capital:
+    Kabul
+Administrative divisions:
+    30 provinces (velayat, singular - velayat); Badakhshan, Badghis, Baghlan,
+    Balkh, Bamian, Farah, Faryab, Ghazni, Ghowr, Helmand, Herat, Jowzjan, Kabol,
+    Kandahar, Kapisa, Konar, Kondoz, Laghman, Lowgar, Nangarhar, Nimruz,
+    Oruzgan, Paktia, Paktika, Parvan, Samangan, Sar-e Pol, Takhar, Vardak,
+    Zabol; note - there may be a new province of Nurestan (Nuristan)
+Independence:
+    19 August 1919 (from UK)
+Constitution:
+    the old Communist-era constitution probably will be replaced with an Islamic
+    constitution
+Legal system:
+    a new legal system has not been adopted but the transitional government has
+    declared it will follow Islamic law (Shari`a)
+National holiday:
+    28 April, Victory of the Muslim Nation; 4 May, Remembrance Day for Martyrs
+    and Disabled; 19 August, Independence Day
+Executive branch:
+    a 51-member transitional council headed by Sibghatullah MOJADDEDI rules
+    Kabul; this body is to turn over power to a leadership council, which will
+    function as the government and organize elections; Burhanuddin RABBANI will
+    serve as interim President
+Legislative branch:
+    previous bicameral legislature has been abolished
+Judicial branch:
+    an interim Chief Justice of the Supreme Court has been appointed, but a new
+    court system has not yet been organized
+Leaders:
+  Chief of State and Head of Government:
+    Interim President Burhanuddin RABBANI; First Vice President Abdul Wahed
+    SORABI (since 7 January 1991); Prime Minister Fazil Haq KHALIQYAR (since 21
+    May 1990)
+Political parties and leaders:
+    the former resistance parties represent the only current political
+    organizations and include Jamiat-i-Islami (Islamic Society), Burhanuddin
+    RABBANI; Hizbi Islami-Gulbuddin (Islamic Party), Gulbuddin Hikmatyar
+    Faction; Hizbi Islami-Khalis (Islamic Party) Yunis Khalis Faction;
+    Ittihad-i-Islami Barai Azadi Afghanistan (Islamic Union for the Liberation
+    of Afghanistan), Abdul Rasul SAYYAF; Harakat-Inqilab-i-Islami (Islamic
+    Revolutionary Movement), Mohammad Nabi MOHAMMADI; Jabha-i-Najat-i-Milli
+    Afghanistan (Afghanistan National Liberation Front), Sibghatullah MOJADDEDI;
+    Mahaz-i-Milli-Islami (National Islamic Front), Sayed Ahamad GAILANI;
+    Jonbesh-i-Milli Islami (National Islamic Movement), Ahmad Shah MASOOD and
+    Rashid DOSTAM; Hizbi Wahdat (Islamic Unity Party), and a number of minor
+    resistance parties; the former ruling Watan Party has been disbanded
+Suffrage:
+    undetermined; previously universal, male ages 15-50
+Elections:
+    the transition government has promised elections in October 1992
+Communists:
+    the former ruling Watan (Homeland) Party has been disbanded
+
+:Afghanistan Government
+
+Other political or pressure groups:
+    the former resistance commanders are the major power brokers in the
+    countryside; shuras (councils) of commanders are now administering most
+    cities outside Kabul; ulema (religious scholars); tribal elders
+Member of:
+    Has previously been a member of AsDB, CP, ESCAP, FAO, G-77, IAEA, IBRD,
+    ICAO, IDA, IDB, IFAD, IFC, ILO, IMF, INTELSAT, IOC, ITU, LORCS, NAM, OIC,
+    UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WMO, WTO; note - the new
+    government has not yet announced whether it will continue to be a member of
+    these bodies; the former resistance government in exile (Afghan Interim
+    Government) was given membership in the OIC in 1989
+Diplomatic representation:
+    previous Minister-Counselor, Charge d'Affaires Abdul Ghafur JOUSHAN;
+    Chancery at 2341 Wyoming Avenue NW, Washington, DC 20008; telephone (202)
+    234-3770 or 3771; a new representative has not yet been named
+  US:
+    Charge d'Affaires (vacant); Embassy at Ansari Wat, Wazir Akbar Khan Mina,
+    Kabul; telephone 62230 through 62235 or 62436; note - US Embassy in Kabul
+    was closed in January 1989
+Flag:
+    a new flag of unknown description reportedly has been adopted; previous flag
+    consisted of three equal horizontal bands of black (top), red, and green,
+    with the national coat of arms superimposed on the hoist side of the black
+    and red bands; similar to the flag of Malawi, which is shorter and bears a
+    radiant, rising red sun centered in the black band
+
+:Afghanistan Economy
+
+Overview:
+    Fundamentally, Afghanistan is an extremely poor, landlocked country, highly
+    dependent on farming (wheat especially) and livestock raising (sheep and
+    goats). Economic considerations, however, have played second fiddle to
+    political and military upheavals during more than 13 years of war, including
+    the nearly 10-year Soviet military occupation (which ended 15 February
+    1989). Over the past decade, one-third of the population fled the country,
+    with Pakistan sheltering more than 3 million refugees and Iran about 1.3
+    million. Another 1 million probably moved into and around urban areas within
+    Afghanistan. Although reliable data are unavailable, gross domestic product
+    is lower than 12 years ago because of the loss of labor and capital and the
+    disruption of trade and transport.
+GDP:
+    exchange rate conversion - $3 billion, per capita $200; real growth rate 0%
+    (1989 est.)
+Inflation rate (consumer prices):
+    over 90% (1991 est.)
+Unemployment rate:
+    NA%
+Budget:
+    revenues NA; expenditures NA, including capital expenditures of NA
+Exports:
+    $236 million (f.o.b., FY91 est.)
+  commodities:
+    natural gas 55%, fruits and nuts 24%, handwoven carpets, wool, cotton,
+    hides, and pelts
+  partners:
+    mostly former USSR
+Imports:
+    $874 million (c.i.f., FY91 est.)
+  commodities:
+    food and petroleum products
+  partners:
+    mostly former USSR
+External debt:
+    $2.3 billion (March 1991 est.)
+Industrial production:
+    growth rate 2.3% (FY91 est.); accounts for about 25% of GDP
+Electricity:
+    480,000 kW capacity; 1,450 million kWh produced, 90 kWh per capita (1991)
+Industries:
+    small-scale production of textiles, soap, furniture, shoes, fertilizer, and
+    cement; handwoven carpets; natural gas, oil, coal, copper
+Agriculture:
+    largely subsistence farming and nomadic animal husbandry; cash products -
+    wheat, fruits, nuts, karakul pelts, wool, mutton
+Illicit drugs:
+    an illicit producer of opium poppy and cannabis for the international drug
+    trade; world's second-largest opium producer (after Burma) and a major
+    source of hashish
+Economic aid:
+    US commitments, including Ex-Im (FY70-89), $380 million; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $510 million; OPEC
+    bilateral aid (1979-89), $57 million; Communist countries (1970-89), $4.1
+    billion; net official Western disbursements (1985-89), $270 million
+Currency:
+    afghani (plural - afghanis); 1 afghani (Af) = 100 puls
+
+:Afghanistan Economy
+
+Exchange rates:
+    afghanis (Af) per US$1 - 550 (May 1992, free market exchange rate), 900
+    (free market exchange rate as of November 1991), 850 (1991), 700 (1989-90),
+    220 (1988-89); note - these rates reflect the bazaar rates rather than the
+    official exchange rates
+Fiscal year:
+    21 March - 20 March
+
+:Afghanistan Communications
+
+Railroads:
+    9.6 km (single track) 1.524-meter gauge from Kushka (Turkmenistan) to
+    Towraghondi and 15.0 km from Termez (Uzbekistan) to Kheyrabad transshipment
+    point on south bank of Amu Darya
+Highways:
+    21,000 km total (1984); 2,800 km hard surface, 1,650 km bituminous-treated
+    gravel and improved earth, 16,550 km unimproved earth and tracks
+Inland waterways:
+    total navigability 1,200 km; chiefly Amu Darya, which handles steamers up to
+    about 500 metric tons
+Pipelines:
+    petroleum products - former USSR to Bagram and former USSR to Shindand;
+    natural gas 180 km
+Ports:
+    Shir Khan and Kheyrabad (river ports)
+Civil air:
+    2 Tu-154, 2 Boeing 727, 4 Yak-40, assorted smaller transports
+Airports:
+    41 total, 37 usable; 9 with permanent-surface runways; none with runways
+    over 3,659 m; 10 with runways 2,440-3,659 m; 18 with runways 1,220-2,439 m
+Telecommunications:
+    limited telephone, telegraph, and radiobroadcast services; television
+    introduced in 1980; 31,200 telephones; broadcast stations - 5 AM, no FM, 1
+    TV; 1 satellite earth station
+
+:Afghanistan Defense Forces
+
+Branches:
+    the military currently is being reorganized by the new government and does
+    not yet exist on a national scale; some elements of the former Army, Air and
+    Air Defense Forces, National Guard, Border Guard Forces, National Police
+    Force (Sarandoi), and Tribal Militias remain intact and are supporting the
+    new government; the government has asked all military personnel to return to
+    their stations; a large number of former resistance groups also field
+    irregular military forces; the Ministry of State Security (WAD) has been
+    disbanded
+Manpower availability:
+    males 15-49, 3,989,232; 2,139,771 fit for military service; 150,572 reach
+    military age (22) annually
+Defense expenditures:
+    the new government has not yet adopted a defense budget
+
+:Albania Geography
+
+Total area:
+    28,750 km2
+Land area:
+    27,400 km2
+Comparative area:
+    slightly larger than Maryland
+Land boundaries:
+    720 km total; Greece 282 km, Macedonia 151 km, Serbia and Montenegro 287 km
+    (114 km with Serbia, 173 km with Montenegro)
+Coastline:
+    362 km
+Maritime claims:
+  Continental shelf:
+    not specified
+  Territorial sea:
+    12 nm
+Disputes:
+    Kosovo question with Serbia and Montenegro; Northern Epirus question with
+    Greece
+Climate:
+    mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior
+    is cooler and wetter
+Terrain:
+    mostly mountains and hills; small plains along coast
+Natural resources:
+    crude oil, natural gas, coal, chromium, copper, timber, nickel
+Land use:
+    arable land 21%; permanent crops 4%; meadows and pastures 15%; forest and
+    woodland 38%; other 22%; includes irrigated 1%
+Environment:
+    subject to destructive earthquakes; tsunami occur along southwestern coast
+Note:
+    strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea
+    and Mediterranean Sea)
+
+:Albania People
+
+Population:
+    3,285,224 (July 1992), growth rate 1.1% (1992)
+Birth rate:
+    23 births/1,000 population (1992)
+Death rate:
+    5 deaths/1,000 population (1992)
+Net migration rate:
+    --6 migrants/1,000 population (1992)
+Infant mortality rate:
+    27 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    71 years male, 78 years female (1992)
+Total fertility rate:
+    2.8 children born/woman (1992)
+Nationality:
+    noun - Albanian(s); adjective - Albanian
+Ethnic divisions:
+    Albanian 90%, Greeks 8%, other 2% (Vlachs, Gypsies, Serbs, and Bulgarians)
+    (1989 est.)
+Religions:
+    all mosques and churches were closed in 1967 and religious observances
+    prohibited; in November 1990, Albania began allowing private religious
+    practice; estimates of religious affiliation - Muslim 70%, Greek Orthodox
+    20%, Roman Catholic 10%
+Languages:
+    Albanian (Tosk is official dialect), Greek
+Literacy:
+    72% (male 80%, female 63%) age 9 and over can read and write (1955)
+Labor force:
+    1,500,000 (1987); agriculture about 60%, industry and commerce 40% (1986)
+Organized labor:
+    Independent Trade Union Federation of Albania; Confederation of Trade Unions
+
+:Albania Government
+
+Long-form name:
+    Republic of Albania
+Type:
+    nascent democracy
+Capital:
+    Tirane
+Administrative divisions:
+    26 districts (rrethe, singular - rreth); Berat, Dibre, Durres, Elbasan,
+    Fier, Gjirokaster, Gramsh, Kolonje, Kore, Kruje, Kukes, Lezhe, Librazhd,
+    Lushnje, Mat, Mirdite, Permet, Pogradec, Puke, Sarande, Shkoder, Skrapar,
+    Tepelene, Tirane, Tropoje, Vlore
+Independence:
+    28 November 1912 (from Ottoman Empire); People's Socialist Republic of
+    Albania declared 11 January 1946
+Constitution:
+    an interim basic law was approved by the People's Assembly on 29 April 1991;
+    a new constitution is to be drafted for adoption in 1992
+Legal system:
+    has not accepted compulsory ICJ jurisdiction
+National holiday:
+    Liberation Day, 29 November (1944)
+Executive branch:
+    president, prime minister of the Council of Ministers, two deputy prime
+    ministers of the Council of Ministers
+Legislative branch:
+    unicameral People's Assembly (Kuvendi Popullor)
+Judicial branch:
+    Supreme Court
+Leaders:
+  Chief of State:
+    President of the Republic Sali BERISHA (since 9 April 1992)
+  Head of Government:
+    Prime Minister of the Council of Ministers Aleksander MEKSI (since 10 April
+    1992)
+Political parties and leaders:
+    there are at least 18 political parties; most prominent are the Albanian
+    Socialist Party (ASP), Fatos NANO, first secretary; Democratic Party (DP),
+    Eduard SELAMI, chairman; Albanian Republican Party (RP), Sabri GODO; Omonia
+    (Greek minority party), leader NA (ran in 1992 election as Unity for Human
+    Rights Party (UHP)); Social Democratic Party (SDP), Skender GJINUSHI; note -
+    in December 1990 then President ALIA allowed new political parties to be
+    formed in addition to the then AWP for the first time since 1944
+Suffrage:
+    universal and compulsory at age 18
+Elections:
+  People's Assembly:
+    last held 22 March 1992; results - DP 62.29%, ASP 25.57%, SDP 4.33%, RP
+    3.15%, UHP 2.92%, other 1.74%; seats - (140 total) DP 92, ASP 38, SDP 7, RP
+    1, UHP 2
+Member of:
+    CSCE, EBRD, ECE, FAO, IAEA, IBRD, IMF, INTERPOL, IOC, ISO, ITU, LORCS, OIC,
+    UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WMO
+Diplomatic representation:
+    Minister-Counselor, Charge d'Affaires ad interim (30 April 1991) Sazan Hyda
+    BEJO; chancery (temporary) at 320 East 79th Street, New York, NY 10021;
+    telephone (212) 249-2059
+  US:
+    Ambassador (vacant); Embassy at Rruga Labinoti 103, room 2921, Tirane
+    (mailing address is APO AE 09624); telephone 355-42-32875; FAX 355-42-32222
+
+:Albania Government
+
+Flag:
+    red with a black two-headed eagle in the center
+
+:Albania Economy
+
+Overview:
+    The Albanian economy, already providing the lowest standard of living in
+    Europe, contracted sharply in 1991, with most industries producing at only a
+    fraction of past levels and an unemployment rate estimated at 40%. For over
+    40 years, the Stalinist-type economy has operated on the principle of
+    central planning and state ownership of the means of production. Albania
+    began fitful economic reforms during 1991, including the liberalization of
+    prices and trade, the privatization of shops and transport, and land reform.
+    These reform measures were crippled, however, by the widespread civil
+    disorder that accompanied the collapse of the Communist state. Following
+    their overwhelming victory in the 22 March 1991 elections, the new
+    Democratic government announced a program of shock therapy to stabilize the
+    economy and establish a market economy. In an effort to expand international
+    ties, Tirane has reestablished diplomatic relations with the former Soviet
+    Union and the US and has joined the IMF and World Bank. The Albanians have
+    also passed legislation allowing foreign investment. Albania possesses
+    considerable mineral resources and, until 1990, was largely self-sufficient
+    in food; however, the breakup of cooperative farms in 1991 and general
+    economic decline forced Albania to rely on foreign aid to maintain adequate
+    supplies. Available statistics on Albanian economic activity are rudimentary
+    and subject to an especially wide margin of error.
+GNP:
+    purchasing power equivalent - $2.7 billion, per capita $820; real growth
+    rate --35% (1991 est.)
+Inflation rate (consumer prices):
+    100% (1991 est.)
+Unemployment rate:
+    40% (1992 est.)
+Budget:
+    revenues $1.1 billion; expenditures $1.4 billion, including capital
+    expenditures of $70 million (1991 est.)
+Exports:
+    $80 million (f.o.b., 1991 est.)
+  commodities:
+    asphalt, petroleum products, metals and metallic ores, electricity, crude
+    oil, vegetables, fruits, tobacco
+  partners:
+    Italy, Yugoslavia, Germany, Greece, Czechoslovakia, Poland, Romania,
+    Bulgaria, Hungary
+Imports:
+    $147 million (f.o.b., 1991 est.)
+  commodities:
+    machinery, machine tools, iron and steel products, textiles, chemicals,
+    pharmaceuticals
+  partners:
+    Italy, Yugoslavia, Germany, Czechoslovakia, Romania, Poland, Hungary,
+    Bulgaria
+External debt:
+    $500 million (1991 est.)
+Industrial production:
+    growth rate --55% (1991 est.)
+Electricity:
+    1,690,000 kW capacity; 5,000 million kWh produced, 1,530 kWh per capita
+    (1990)
+Industries:
+    food processing, textiles and clothing, lumber, oil, cement, chemicals,
+    basic metals, hydropower
+
+:Albania Economy
+
+Agriculture:
+    arable land per capita among lowest in Europe; over 60% of arable land now
+    in private hands; one-half of work force engaged in farming; wide range of
+    temperate-zone crops and livestock; severe dislocations suffered in 1991
+Economic aid:
+    $190 million humanitarian aid, $94 million in loans/guarantees/credits
+Currency:
+    lek (plural - leke); 1 lek (L) = 100 qintars
+Exchange rates:
+    leke (L) per US$1 - 50 (January 1992), 25 (September 1991)
+Fiscal year:
+    calendar year
+
+:Albania Communications
+
+Railroads:
+    543 km total; 509 1.435-meter standard gauge, single track and 34 km narrow
+    gauge, single track (1990); line connecting Titograd (Serbia and Montenegro)
+    and Shkoder (Albania) completed August 1986
+Highways:
+    16,700 km total; 6,700 km highways, 10,000 km forest and agricultural cart
+    roads (1990)
+Inland waterways:
+    43 km plus Albanian sections of Lake Scutari, Lake Ohrid, and Lake Prespa
+    (1990)
+Pipelines:
+    crude oil 145 km; petroleum products 55 km; natural gas 64 km (1988)
+Ports:
+    Durres, Sarande, Vlore
+Merchant marine:
+    11 cargo ships (1,000 GRT or over) totaling 52,886 GRT/76,449 DWT
+Airports:
+    12 total, 10 usable; more than 5 with permanent-surface runways; more than 5
+    with runways 2,440-3,659 m; 5 with runways 1,220-2,439 m
+Telecommunications:
+    inadequate service; 15,000 telephones; broadcast stations - 13 AM, 1 TV;
+    514,000 radios, 255,000 TVs (1987 est.)
+
+:Albania Defense Forces
+
+Branches:
+    Army, Coastal Defense Command, Air and Air Defense Forces, Interior Ministry
+    Troops, Border Troops
+Manpower availability:
+    males 15-49, 886,032; 731,072 fit for military service; 33,028 reach
+    military age (19) annually
+Defense expenditures:
+    exchange rate conversion - 1.0 billion leks, NA% of GNP (FY90); note -
+    conversion of defense expenditures into US dollars using the current
+    exchange rate could produce misleading results
+
+:Algeria Geography
+
+Total area:
+    2,381,740 km2
+Land area:
+    2,381,740 km2
+Comparative area:
+    slightly less than 3.5 times the size of Texas
+Land boundaries:
+    6,343 km total; Libya 982 km, Mali 1,376 km, Mauritania 463 km, Morocco
+    1,559 km, Niger 956 km, Tunisia 965 km, Western Sahara 42 km
+Coastline:
+    998 km
+Maritime claims:
+  Territorial sea:
+    12 nm
+Disputes:
+    Libya claims about 19,400 km2 in southeastern Algeria; land boundary
+    disputes with Tunisia under discussion
+Climate:
+    arid to semiarid; mild, wet winters with hot, dry summers along coast; drier
+    with cold winters and hot summers on high plateau; sirocco is a hot,
+    dust/sand-laden wind especially common in summer
+Terrain:
+    mostly high plateau and desert; some mountains; narrow, discontinuous
+    coastal plain
+Natural resources:
+    crude oil, natural gas, iron ore, phosphates, uranium, lead, zinc
+Land use:
+    arable land 3%; permanent crops NEGL%; meadows and pastures 13%; forest and
+    woodland 2%; other 82%; includes irrigated NEGL%
+Environment:
+    mountainous areas subject to severe earthquakes; desertification
+Note:
+    second-largest country in Africa (after Sudan)
+
+:Algeria People
+
+Population:
+    26,666,921 (July 1992), growth rate 2.5% (1992)
+Birth rate:
+    31 births/1,000 population (1992)
+Death rate:
+    7 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992)
+Infant mortality rate:
+    56 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    66 years male, 68 years female (1992)
+Total fertility rate:
+    4.1 children born/woman (1992)
+Nationality:
+    noun - Algerian(s); adjective - Algerian
+Ethnic divisions:
+    Arab-Berber 99%, European less than 1%
+Religions:
+    Sunni Muslim (state religion) 99%, Christian and Jewish 1%
+Languages:
+    Arabic (official), French, Berber dialects
+Literacy:
+    50% (male 63%, female 36%) age 15 and over can read and write (1987)
+Labor force:
+    3,700,000; industry and commerce 40%, agriculture 24%, government 17%,
+    services 10% (1984)
+Organized labor:
+    16-19% of labor force claimed; General Union of Algerian Workers (UGTA) is
+    the only labor organization and is subordinate to the National Liberation
+    Front
+
+:Algeria Government
+
+Long-form name:
+    Democratic and Popular Republic of Algeria
+Type:
+    republic
+Capital:
+    Algiers
+Administrative divisions:
+    48 provinces (wilayast, singular - wilaya); Adrar, Ain Defla, Ain
+    Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida, Bordj Bou
+    Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa, El Bayadh, El Oued,
+    El Tarf, Ghardaia, Guelma, Illizi, Jijel, Khenchela, Laghouat, Mascara,
+    Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Oum el Bouaghi,
+    Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanghasset,
+    Tebessa, Tiaret, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen
+Independence:
+    5 July 1962 (from France)
+Constitution:
+    19 November 1976, effective 22 November 1976; revised February 1989
+Legal system:
+    socialist, based on French and Islamic law; judicial review of legislative
+    acts in ad hoc Constitutional Council composed of various public officials,
+    including several Supreme Court justices; has not accepted compulsory ICJ
+    jurisdiction
+National holiday:
+    Anniversary of the Revolution, 1 November (1954)
+Executive branch:
+    president, prime minister, Council of Ministers (cabinet)
+Legislative branch:
+    unicameral National People's Assembly (Al-Majlis Ech-Chaabi Al-Watani)
+Judicial branch:
+    Supreme Court (Cour Supreme)
+Leaders:
+  Chief of State:
+    President Mohamed BOUDIAF; assassinated 29 June 1992
+  Head of Government:
+    Interim Prime Minister Sid Ahmed GHOZALI (since 6 June 1991)
+Political parties and leaders:
+    National Liberation Front (FLN); Socialist Forces Front (FFS), Hocine Ait
+    AHMED, Secretary General; the government established a multiparty system in
+    September 1989, and, as of 31 December 1990, over 30 legal parties existed
+Suffrage:
+    universal at age 18
+Elections:
+  National People's Assembly:
+    first round held on 26 December 1991 (second round canceled by the military
+    after President BENJEDID resigned 11 January 1992); results - percent of
+    vote by party NA; seats - (281 total); the fundamentalist FIS won 188 of the
+    231 seats contested in the first round; note - elections (municipal and
+    wilaya) were held in June 1990, the first in Algerian history; results - FIS
+    55%, FLN 27.5%, other 17.5%, with 65% of the voters participating
+  President:
+    next election to be held December 1993
+Communists:
+    400 (est.); Communist party banned 1962
+Member of:
+    ABEDA, AfDB, AFESD, AL, AMF, AMU, CCC, ECA, FAO, G-15, G-24, G-77, IAEA,
+    IBRD, ICAO, IDA, IDB, IFAD, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL,
+    IOC, ISO, ITU, LORCS, NAM, OAPEC, OAS (observer), OAU, OIC, OPEC, UN,
+    UNAVEM, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCL, WHO, WIPO, WMO, WTO
+
+:Algeria Government
+
+Diplomatic representation:
+    Ambassador Abderrahmane BENSID; Chancery at 2118 Kalorama Road NW,
+    Washington, DC 20008; telephone (202) 265-2800
+  US:
+    Ambassador Mary Ann CASEY; Embassy at 4 Chemin Cheich Bachir El-Ibrahimi,
+    Algiers (mailing address is B. P. Box 549, Alger-Gare, 16000 Algiers);
+    telephone [213] (2) 601-425 or 255, 186; FAX [213] (2) 603979; there is a US
+    Consulate in Oran
+Flag:
+    two equal vertical bands of green (hoist side) and white with a red
+    five-pointed star within a red crescent; the crescent, star, and color green
+    are traditional symbols of Islam (the state religion)
+
+:Algeria Economy
+
+Overview:
+    The oil and natural gas sector forms the backbone of the economy. Algeria
+    depends on hydrocarbons for nearly all of its export receipts, about 30% of
+    government revenues, and nearly 25% of GDP. In 1973-74 the sharp increase in
+    oil prices led to a booming economy and helped to finance an ambitious
+    program of industrialization. Plunging oil and gas prices, combined with the
+    mismanagement of Algeria's highly centralized economy, has brought the
+    nation to its most serious social and economic crisis since independence in
+    1988. The government has promised far-reaching reforms, including
+    privatization of some public- sector companies, encouraging private-sector
+    activity, boosting gas and nonhydrocarbon exports, and proposing a major
+    overhaul of the banking and financial systems, but to date it has made only
+    limited progress.
+GDP:
+    exchange rate conversion - $54 billion, per capita $2,130; real growth rate
+    2.5% (1990 est.)
+Inflation rate (consumer prices):
+    30% (1991 est.)
+Unemployment rate:
+    30% (1991 est.)
+Budget:
+    revenues $16.7 billion; expenditures $17.3 billion, including capital
+    expenditures of $6.6 billion (1990 est.)
+Exports:
+    $11.7 billion (f.o.b., 1991 est.)
+  commodities:
+    petroleum and natural gas 97%
+  partners:
+    Netherlands, Czechoslovakia, Romania, Italy, France, US
+Imports:
+    $9 billion (f.o.b., 1991 est.)
+  commodities:
+    capital goods 29%, consumer goods 30%
+  partners:
+    France 25%, Italy 8%, FRG 8%, US 6-7%
+External debt:
+    $26.4 billion
+Industrial production:
+    growth rate --3% (1989 est.); accounts for 30% of GDP, including petroleum
+Electricity:
+    6,380,000 kW capacity; 16,700 million kWh produced, 640 kWh per capita
+    (1991)
+Industries:
+    petroleum, light industries, natural gas, mining, electrical, petrochemical,
+    food processing
+Agriculture:
+    accounts for 11% of GDP and employs 24% of labor force; net importer of food
+    - grain, vegetable oil, and sugar; farm production includes wheat, barley,
+    oats, grapes, olives, citrus, fruits, sheep, and cattle
+Economic aid:
+    US commitments, including Ex-Im (FY70-85), $1.4 billion; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $925 million; OPEC
+    bilateral aid (1979-89), $1.8 billion; Communist countries (1970-89), $2.7
+    billion; net official disbursements (1985-89), --$375 million
+Currency:
+    Algerian dinar (plural - dinars); 1 Algerian dinar (DA) = 100 centimes
+Exchange rates:
+    Algerian dinars (DA) per US$1 - 21.862 (January 1992), 18.473 (1991), 8.958
+    (1990), 7.6086 (1989), 5.9148 (1988), 4.8497 (1987)
+
+:Algeria Economy
+
+Fiscal year:
+    calendar year
+
+:Algeria Communications
+
+Railroads:
+    4,060 km total; 2,616 km standard gauge (1.435 m), 1,188 km 1.055-meter
+    gauge, 256 km 1.000-meter gauge; 300 km electrified; 215 km double track
+Highways:
+    80,000 km total; 60,000 km concrete or bituminous, 20,000 km gravel, crushed
+    stone, unimproved earth
+Pipelines:
+    crude oil 6,612 km; petroleum products 298 km; natural gas 2,948 km
+Ports:
+    Algiers, Annaba, Arzew, Bejaia, Djendjene, Ghazaouet, Jijel, Mers el Kebir,
+    Mostaganem, Oran, Skikda
+Merchant marine:
+    75 ships (1,000 GRT or over) totaling 903,179 GRT/1,064,246 DWT; includes 5
+    short-sea passenger, 27 cargo, 12 roll-on/roll-off cargo, 5 petroleum
+    tanker, 9 liquefied gas, 7 chemical tanker, 9 bulk, 1 specialized tanker
+Civil air:
+    42 major transport aircraft
+Airports:
+    141 total, 124 usable; 53 with permanent-surface runways; 2 with runways
+    over 3,659 m; 32 with runways 2,440-3,659 m; 65 with runways 1,220-2,439 m
+Telecommunications:
+    excellent domestic and international service in the north, sparse in the
+    south; 822,000 telephones; broadcast stations - 26 AM, no FM, 18 TV;
+    1,600,000 TV sets; 5,200,000 radios; 5 submarine cables; radio relay to
+    Italy, France, Spain, Morocco, and Tunisia; coaxial cable to Morocco and
+    Tunisia; satellite earth stations - 1 Atlantic Ocean INTELSAT, 1 Indian
+    Ocean INTELSAT, 1 Intersputnik, l ARABSAT, and 15 domestic
+
+:Algeria Defense Forces
+
+Branches:
+    National Popular Army, Navy, Air Force, Territorial Air Defense, National
+    Gendarmerie
+Manpower availability:
+    males 15-49, 6,386,157; 3,928,029 fit for military service; 283,068 reach
+    military age (19) annually
+Defense expenditures:
+    exchange rate conversion - $867 million, approximately 1.8% of GDP (1992)
+
+:American Samoa Geography
+
+Total area:
+    199 km2
+Land area:
+    199 km2; includes Rose Island and Swains Island
+Comparative area:
+    slightly larger than Washington, DC
+Land boundaries:
+    none
+Coastline:
+    116 km
+Maritime claims:
+  Contiguous zone:
+    12 nm
+  Continental shelf:
+    200 m (depth)
+  Exclusive economic zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    none
+Climate:
+    tropical marine, moderated by southeast trade winds; annual rainfall
+    averages 124 inches; rainy season from November to April, dry season from
+    May to October; little seasonal temperature variation
+Terrain:
+    five volcanic islands with rugged peaks and limited coastal plains, two
+    coral atolls
+Natural resources:
+    pumice and pumicite
+Land use:
+    arable land 10%; permanent crops 5%; meadows and pastures 0%; forest and
+    woodland 75%; other 10%
+Environment:
+    typhoons common from December to March
+Note:
+    Pago Pago has one of the best natural deepwater harbors in the South Pacific
+    Ocean, sheltered by shape from rough seas and protected by peripheral
+    mountains from high winds; strategic location about 3,700 km south-southwest
+    of Honolulu in the South Pacific Ocean about halfway between Hawaii and New
+    Zealand
+
+:American Samoa People
+
+Population:
+    51,115 (July 1992), growth rate 3.9% (1992); about 65,000 American Samoans
+    live in the states of California and Washington and 20,000 in Hawaii
+Birth rate:
+    37 births/1,000 population (1992)
+Death rate:
+    4 deaths/1,000 population (1992)
+Net migration rate:
+    6 immigrants/1,000 population (1992)
+Infant mortality rate:
+    19 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    71 years male, 75 years female (1992)
+Total fertility rate:
+    4.5 children born/woman (1992)
+Nationality:
+    noun - American Samoan(s); adjective - American Samoan; US, noncitizen
+    nationals
+Ethnic divisions:
+    Samoan (Polynesian) 90%, Caucasian 2%, Tongan 2%, other 6%
+Religions:
+    Christian Congregationalist 50%, Roman Catholic 20%, Protestant
+    denominations and other 30%
+Languages:
+    Samoan (closely related to Hawaiian and other Polynesian languages) and
+    English; most people are bilingual
+Literacy:
+    97% (male 97%, female 97%) age 15 and over can read and write (1980)
+Labor force:
+    14,400 (1990); government 48%, tuna canneries 33%, other 19% (1986 est.)
+Organized labor:
+    NA
+
+:American Samoa Government
+
+Long-form name:
+    Territory of American Samoa
+Type:
+    unincorporated and unorganized territory of the US;
+    administered by the US Department of Interior, Office of Territorial and
+    International Affairs; indigenous inhabitants are US nationals, not citizens
+    of the US
+Capital:
+    Pago Pago
+Administrative divisions:
+    none (territory of the US)
+Independence:
+    none (territory of the US)
+Constitution:
+    ratified 1966, in effect 1967; note - a comprehensive revision is awaiting
+    ratification by the US Congress (1992)
+National holiday:
+    Territorial Flag Day, 17 April (1900)
+Executive branch:
+    popularly elected governor and lieutenant governor
+Legislative branch:
+    bicameral Legislative Assembly (Fono) consists of an upper house or Senate
+    and a lower house or House of Representatives
+Judicial branch:
+    High Court, district courts, and village courts
+Leaders:
+  Chief of State:
+    President George BUSH (since 20 January 1989); Vice President Dan QUAYLE
+    (since 20 January 1989)
+  Head of Government:
+    Governor Peter Tali COLEMAN (since 20 January 1989); Lieutenant Governor
+    Galea'i POUMELE (since NA 1989)
+Suffrage:
+    universal at age 18; indigenous inhabitants are US nationals, not US
+    citizens
+Elections:
+  Governor:
+    last held 7 November 1988 (next to be held November 1992); results - Peter
+    T. COLEMAN was elected (percent of vote NA)
+  House of Representatives:
+    last held November 1990 (next to be held November 1992); results -
+    representatives popularly elected from 17 house districts; seats - (21
+    total, 20 elected, and 1 nonvoting delegate from Swain's Island)
+  Senate:
+    last held 7 November 1988 (next to be held November 1992); results -
+    senators elected by county councils from 12 senate districts; seats - (18
+    total) number of seats by party NA
+  US House of Representatives:
+    last held 19 November 1990 (next to be held November 1992); results - Eni R.
+    F. H. FALEOMAVAEGA reelected as a nonvoting delegate
+Member of:
+    ESCAP, IOC, SPC
+Diplomatic representation:
+    none (territory of the US)
+Flag:
+    blue with a white triangle edged in red that is based on the fly side and
+    extends to the hoist side; a brown and white American bald eagle flying
+    toward the hoist side is carrying two traditional Samoan symbols of
+    authority, a staff and a war club
+
+:American Samoa Economy
+
+Overview:
+    Economic development is strongly linked to the US, with which American Samoa
+    does nearly 90% of its foreign trade. Tuna fishing and tuna processing
+    plants are the backbone of the private-sector economy, with canned tuna the
+    primary export. The tuna canneries and the government are by far the two
+    largest employers. Other economic activities include a slowly developing
+    tourist industry.
+GNP:
+    purchasing power equivalent - $128 million, per capita $2,500; real growth
+    rate NA% (1990)
+Inflation rate (consumer prices):
+    4.3% (1989)
+Unemployment rate:
+    12% (1991)
+Budget:
+    revenues $126,394,000 (consisting of $46,441,000 local revenue and
+    $79,953,000 grant revenue); including capital expenditures of $NA million
+    (1990)
+Exports:
+    $307 million (f.o.b., 1989)
+  commodities:
+    canned tuna 93%
+  partners:
+    US 99.6%
+Imports:
+    $377.9 million (c.i.f., 1989)
+  commodities:
+    materials for canneries 56%, food 8%, petroleum 7%, machinery and parts 6%
+  partners:
+    US 72%, Japan 7%, NZ 7%, Australia 5%, other 9%
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    42,000 kW capacity; 85 million kWh produced, 2,020 kWh per capita (1990)
+Industries:
+    tuna canneries (largely dependent on foreign supplies of raw tuna), meat
+    canning, handicrafts
+Agriculture:
+    bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples,
+    papayas, dairy farming
+Economic aid:
+    $21,042,650 in operational funds and $5,948,931 in construction funds for
+    capital improvement projects from the US Department of Interior (1991)
+Currency:
+    US currency is used
+Exchange rates:
+    US currency is used
+Fiscal year:
+    1 October - 30 September
+
+:American Samoa Communications
+
+Railroads:
+    none
+Highways:
+    350 km total; 150 km paved, 200 km unpaved
+Ports:
+    Pago Pago, Ta'u
+Airports:
+    4 total, 4 usable; 2 with permanent-surface runways; none with runways over
+    3,659 m; 1 with runways 2,440 to 3,659 m (international airport at Tafuna,
+    near Pago Pago); small airstrips on Ta'u and Ofu
+Telecommunications:
+    6,500 telephones; broadcast stations - 1 AM, 2 FM, 1 TV; good telex,
+    telegraph, and facsimile services; 1 Pacific Ocean INTELSAT earth station, 1
+    COMSAT earth station
+
+:American Samoa Defense Forces
+
+Note:
+    defense is the responsibility of the US
+
+:Andorra Geography
+
+Total area:
+    450 km2
+Land area:
+    450 km2
+Comparative area:
+    slightly more than 2.5 times the size of Washington, DC
+Land boundaries:
+    125 km total; France 60 km, Spain 65 km
+Coastline:
+    none - landlocked
+Maritime claims:
+    none - landlocked
+Disputes:
+    none
+Climate:
+    temperate; snowy, cold winters and cool, dry summers
+Terrain:
+    rugged mountains dissected by narrow valleys
+Natural resources:
+    hydropower, mineral water, timber, iron ore, lead
+Land use:
+    arable land 2%; permanent crops 0%; meadows and pastures 56%; forest and
+    woodland 22%; other 20%
+Environment:
+    deforestation, overgrazing
+Note:
+    landlocked
+
+:Andorra People
+
+Population:
+    54,428 (July 1992), growth rate 2.2% (1992)
+Birth rate:
+    11 births/1,000 population (1992)
+Death rate:
+    4 deaths/1,000 population (1992)
+Net migration rate:
+    15 migrants/1,000 population (1992)
+Infant mortality rate:
+    7 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    74 years male, 81 years female (1992)
+Total fertility rate:
+    1.3 children born/woman (1992)
+Nationality:
+    noun - Andorran(s); adjective - Andorran
+Ethnic divisions:
+    Catalan stock; Spanish 61%, Andorran 30%, French 6%, other 3%
+Religions:
+    virtually all Roman Catholic
+Languages:
+    Catalan (official); many also speak some French and Castilian
+Literacy:
+    NA% (male NA%, female NA%)
+Labor force:
+    NA
+Organized labor:
+    none
+
+:Andorra Government
+
+Long-form name:
+    Principality of Andorra
+Type:
+    unique coprincipality under formal sovereignty of president of France and
+    Spanish bishop of Seo de Urgel, who are represented locally by officials
+    called veguers
+Capital:
+    Andorra la Vella
+Administrative divisions:
+    7 parishes (parroquies, singular - parroquia); Andorra, Canillo, Encamp, La
+    Massana, Les Escaldes, Ordino, Sant Julia de Loria
+Independence:
+    1278
+Constitution:
+    none; some pareatges and decrees, mostly custom and usage
+Legal system:
+    based on French and Spanish civil codes; no judicial review of legislative
+    acts; has not accepted compulsory ICJ jurisdiction
+National holiday:
+    Mare de Deu de Meritxell, 8 September
+Executive branch:
+    two co-princes (president of France, bishop of Seo de Urgel in Spain), two
+    designated representatives (French veguer, Episcopal veguer), two permanent
+    delegates (French prefect for the department of Pyrenees-Orientales, Spanish
+    vicar general for the Seo de Urgel diocese), president of government,
+    Executive Council
+Legislative branch:
+    unicameral General Council of the Valleys (Consell General de las Valls)
+Judicial branch:
+    civil cases - Supreme Court of Andorra at Perpignan (France) or the
+    Ecclesiastical Court of the bishop of Seo de Urgel (Spain); criminal cases -
+    Tribunal of the Courts (Tribunal des Cortes)
+Leaders:
+  Chiefs of State:
+    French Co-Prince Francois MITTERRAND (since 21 May 1981), represented by
+    Veguer de Franca Jean Pierre COURTOIS; Spanish Episcopal Co-Prince Mgr. Joan
+    MARTI y Alanis (since 31 January 1971), represented by Veguer Episcopal
+    Francesc BADIA Batalla
+  Head of Government:
+    Oscar RIBAS Reig (since January 1990)
+Political parties and leaders:
+    political parties not yet legally recognized; traditionally no political
+    parties but partisans for particular independent candidates for the General
+    Council on the basis of competence, personality, and orientation toward
+    Spain or France; various small pressure groups developed in 1972; first
+    formal political party, Andorran Democratic Association, was formed in 1976
+    and reorganized in 1979 as Andorran Democratic Party
+Suffrage:
+    universal at age 18
+Elections:
+  General Council of the Valleys:
+    last held 11 December 1989 (next to be held December 1993); results -
+    percent of vote by party NA; seats - (28 total) number of seats by party NA
+Member of:
+    INTERPOL, IOC
+Diplomatic representation:
+    Andorra has no mission in the US
+
+:Andorra Government
+
+  US:
+    includes Andorra within the Barcelona (Spain) Consular District, and the US
+    Consul General visits Andorra periodically; Consul General Carolee HEILEMAN;
+    Consulate General at Via Layetana 33, 08003 Barcelona (mailing address APO
+    AE 09646); telephone [34] (3) 319-9550
+Flag:
+    three equal vertical bands of blue (hoist side), yellow, and red with the
+    national coat of arms centered in the yellow band; the coat of arms features
+    a quartered shield; similar to the flags of Chad and Romania that do not
+    have a national coat of arms in the center
+
+:Andorra Economy
+
+Overview:
+    The mainstay of Andorra's economy is tourism. An estimated 13 million
+    tourists visit annually, attracted by Andorra's duty-free status and by its
+    summer and winter resorts. Agricultural production is limited by a scarcity
+    of arable land, and most food has to be imported. The principal livestock
+    activity is sheep raising. Manufacturing consists mainly of cigarettes,
+    cigars, and furniture. The rapid pace of European economic integration is a
+    potential threat to Andorra's advantages from its duty-free status.
+GDP:
+    purchasing power equivalent - $727 million, per capita $14,000; real growth
+    rate NA% (1990 est.)
+Inflation rate (consumer prices):
+    NA%
+Unemployment rate:
+    none
+Budget:
+    revenues $NA; expenditures $NA, including capital expenditures of $NA
+Exports:
+    $0.017 million (f.o.b., 1986)
+  commodities:
+    electricity
+  partners:
+    France, Spain
+Imports:
+    $531 million (f.o.b., 1986)
+  commodities:
+    consumer goods, food
+  partners:
+    France, Spain
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    35,000 kW capacity; 140 million kWh produced, 2,800 kWh per capita (1991)
+Industries:
+    tourism (particularly skiing), sheep, timber, tobacco, banking
+Agriculture:
+    sheep raising; small quantities of tobacco, rye, wheat, barley, oats, and
+    some vegetables
+Economic aid:
+    none
+Currency:
+    French franc (plural - francs) and Spanish peseta (plural - pesetas); 1
+    French franc (F) = 100 centimes and 1 Spanish peseta (Pta) = 100 centimos
+Exchange rates:
+    French francs (F) per US$1 - 5.3801 January (1992), 5.6421 (1991), 5.4453
+    (1990), 6.3801 (1989), 5.9569 (1988), 6.0107 (1987); Spanish pesetas (Ptas)
+    per US$1 - 100.02 (January 1992), 103.91 (1991), 101.93 (1990), 118.38
+    (1989), 116.49 (1988), 123.48 (1987)
+Fiscal year:
+    calendar year
+
+:Andorra Communications
+
+Highways:
+    96 km
+Telecommunications:
+    international digital microwave network; international landline circuits to
+    France and Spain; broadcast stations - 1 AM, no FM, no TV; 17,700 telephones
+
+:Andorra Defense Forces
+
+Note:
+    defense is the responsibility of France and Spain
+
+:Angola Geography
+
+Total area:
+    1,246,700 km2
+Land area:
+    1,246,700 km2
+Comparative area:
+    slightly less than twice the size of Texas
+Land boundaries:
+    5,198 km total; Congo 201 km, Namibia 1,376 km, Zaire 2,511 km, Zambia 1,110
+    km
+Coastline:
+    1,600 km
+Maritime claims:
+  Exclusive fishing zone:
+    200 nm
+  Territorial sea:
+    20 nm
+Disputes:
+    civil war since independence on 11 November 1975; on 31 May 1991 Angolan
+    President Jose Eduardo dos SANTOS and Jonas SAVIMBI, leader of the National
+    Union for the Total Independence of Angola (UNITA), signed a peace treaty
+    that calls for multiparty elections in late September 1992, an
+    internationally monitored cease-fire, and termination of outside military
+    assistance
+Climate:
+    semiarid in south and along coast to Luanda; north has cool, dry season (May
+    to October) and hot, rainy season (November to April)
+Terrain:
+    narrow coastal plain rises abruptly to vast interior plateau
+Natural resources:
+    petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite,
+    uranium
+Land use:
+    arable land 2%; permanent crops NEGL%; meadows and pastures 23%; forest and
+    woodland 43%; other 32%
+Environment:
+    locally heavy rainfall causes periodic flooding on plateau; desertification
+Note:
+    Cabinda is separated from rest of country by Zaire
+
+:Angola People
+
+Population:
+    8,902,076 (July 1992), growth rate 2.7% (1992)
+Birth rate:
+    46 births/1,000 population (1992)
+Death rate:
+    19 deaths/1,000 population (1992)
+Net migration rate:
+    NEGL migrants/1,000 population (1992)
+Infant mortality rate:
+    152 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    43 years male, 47 years female (1992)
+Total fertility rate:
+    6.6 children born/woman (1992)
+Nationality:
+    noun - Angolan(s); adjective - Angolan
+Ethnic divisions:
+    Ovimbundu 37%, Kimbundu 25%, Bakongo 13%, Mestico 2%,European 1%, other 22%
+Religions:
+    indigenous beliefs 47%, Roman Catholic 38%, Protestant 15% (est.)
+Languages:
+    Portuguese (official); various Bantu dialects
+Literacy:
+    42% (male 56%, female 28%) age 15 and over can read and write (1990 est.)
+Labor force:
+    2,783,000 economically active; agriculture 85%, industry 15% (1985 est.)
+Organized labor:
+    about 450,695 (1980)
+
+:Angola Government
+
+Long-form name:
+    People's Republic of Angola
+Type:
+    in transition from a one-party Marxist state to a multiparty democracy with
+    a strong presidential system
+Capital:
+    Luanda
+Administrative divisions:
+    18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie,
+    Cabinda, Cuando Cubango, Cuanza Norte, Cuanza Sul, Cunene, Huambo, Huila,
+    Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Uige, Zaire
+Independence:
+    11 November 1975 (from Portugal)
+Constitution:
+    11 November 1975; revised 7 January 1978, 11 August 1980, and 6 March 1991
+Legal system:
+    based on Portuguese civil law system and customary law; recently modified to
+    accommodate multipartyism and increased use of free markets
+National holiday:
+    Independence Day, 11 November (1975)
+Executive branch:
+    president, prime minister, chairman of the Council of Ministers, Council of
+    Ministers (cabinet)
+Legislative branch:
+    unicameral People's Assembly (Assembleia do Povo)
+Judicial branch:
+    Supreme Court (Tribunal da Relacaao)
+Leaders:
+  Chief of State:
+    President Jose Eduardo dos SANTOS (since 21 September 1979)
+  Head of Government:
+    Prime Minister Fernando Jose Franca VAN DUNEM (since 21 July 1991)
+Political parties and leaders:
+    the Popular Movement for the Liberation of Angola - Labor Party (MPLA), led
+    by Jose Eduardo dos SANTOS, is the ruling party that has been in power in
+    Angola's one-party system since 1975. The National Union for the Total
+    Independence of Angola (UNITA), led by Jonas SAVIMBI, has been in insurgency
+    since 1975, but as a result of the peace accords is now a legally recognized
+    political party. Some 30 other political parties now exist in Angola, but
+    few of them are viable and only a couple have met the requirements to become
+    legally recognized.
+Suffrage:
+    universal at age 18
+Elections:
+    first nationwide, multiparty elections to be held between September and
+    November 1992
+Member of:
+    ACP, AfDB, CCC, CEEAC (observer), ECA, FAO, FLS, G-77, IBRD, ICAO, IFAD,
+    ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ITU, LORCS, NAM, OAU, SADCC, UN,
+    UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation:
+    none; note - US Liaison Office (USLO) established after Peace Accords in May
+    1991 as a precursor to establishing an embassy after election in 1992;
+    address - Luanda (USLO), BPA Building, llth floor, telephone [244] (2)
+    39-02-42; FAX [244] (2) 39-05-15
+Flag:
+    two equal horizontal bands of red (top) and black with a centered yellow
+    emblem consisting of a five-pointed star within half a cogwheel crossed by a
+    machete (in the style of a hammer and sickle)
+
+:Angola Economy
+
+Overview:
+    Subsistence agriculture provides the main livelihood for 80-90% of the
+    population, but accounts for less than 15% of GDP. Oil production is vital
+    to the economy, contributing about 60% to GDP. In recent years, a bitter
+    internal war has severely affected the nonoil economy, and food has to be
+    imported. For the long run, Angola has the advantage of rich natural
+    resources in addition to oil, notably gold, diamonds, and arable land. To
+    realize its economic potential Angola not only must secure domestic peace
+    but also must reform government policies that have led to distortions and
+    imbalances throughout the economy.
+GDP:
+    exchange rate conversion - $8.3 billion, per capita $950; real growth rate
+    1.7% (1991 est.)
+Inflation rate (consumer prices):
+    6.1% (1990 est.)
+Unemployment rate:
+    NA%
+Budget:
+    revenues $2.6 billion; expenditures $4.4 billion, including capital
+    expenditures of $963 million (1990 est.)
+Exports:
+    $3.9 billion (f.o.b., 1990 est.)
+  commodities:
+    oil, liquefied petroleum gas, diamonds, coffee, sisal, fish and fish
+    products, timber, cotton
+  partners:
+    US, USSR, Cuba, Portugal, Brazil, France
+Imports:
+    $1.5 billion (f.o.b., 1990 est.)
+  commodities:
+    capital equipment (machinery and electrical equipment), food, vehicles and
+    spare parts, textiles and clothing, medicines; substantial military
+    deliveries
+  partners:
+    US, USSR, Cuba, Portugal, Brazil
+External debt:
+    $7.0 billion (1990)
+Industrial production:
+    growth rate NA%; accounts for about 60% of GDP, including petroleum output
+Electricity:
+    510,000 kW capacity; 770 million kWh produced, 90 kWh per capita (1991)
+Industries:
+    petroleum, diamonds, mining, fish processing, food processing, brewing,
+    tobacco, sugar, textiles, cement, basic metal products
+Agriculture:
+    cash crops - coffee, sisal, corn, cotton, sugar, manioc, tobacco; food crops
+    - cassava, corn, vegetables, plantains, bananas; livestock production
+    accounts for 20%, fishing 4%, forestry 2% of total agricultural output;
+    disruptions caused by civil war and marketing deficiencies require food
+    imports
+Economic aid:
+    US commitments, including Ex-Im (FY70-89), $265 million; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $1,105 million;
+    Communist countries (1970-89), $1.3 billion; net official disbursements
+    (1985-89), $750 million
+Currency:
+    kwanza (plural - kwanza); 1 kwanza (Kz) = 100 lwei
+Exchange rates:
+    kwanza (Kz) per US$1 - 180.0
+
+:Angola Economy
+
+Fiscal year:
+    calendar year
+
+:Angola Communications
+
+Railroads:
+    3,189 km total; 2,879 km 1.067-meter gauge, 310 km 0.600-meter gauge;
+    limited trackage in use because of landmines still in place from the civil
+    war; majority of the Benguela Railroad also closed because of civil war
+Highways:
+    73,828 km total; 8,577 km bituminous-surface treatment, 29,350 km crushed
+    stone, gravel, or improved earth, remainder unimproved earth
+Inland waterways:
+    1,295 km navigable
+Pipelines:
+    crude oil 179 km
+Ports:
+    Luanda, Lobito, Namibe, Cabinda
+Merchant marine:
+    12 ships (1,000 GRT or over) totaling 66,348 GRT/102,825 DWT; includes 11
+    cargo, 1 petroleum tanker
+Civil air:
+    28 major transport aircraft
+Airports:
+    309 total, 177 usable; 30 with permanent-surface runways; 2 with runways
+    over 3,659 m; 15 with runways 2,440-3,659 m; 54 with runways 1,220-2,439 m
+Telecommunications:
+    limited system of wire, radio relay, and troposcatter routes; high frequency
+    radio used extensively for military links; 40,300 telephones; broadcast
+    stations - 17 AM, 13 FM, 6 TV; 2 Atlantic Ocean INTELSAT earth stations
+
+:Angola Defense Forces
+
+Branches:
+    Army, Navy, Air Force/Air Defense, People's Defense Organization and
+    Territorial Troops, Frontier Guard
+Manpower availability:
+    males 15-49, 2,129,877; 1,072,323 fit for military service; 89,585 reach
+    military age (18) annually
+Defense expenditures:
+    exchange rate conversion - $NA, NA% of GDP
+
+:Anguilla Geography
+
+Total area:
+    91 km2
+Land area:
+    91 km2
+Comparative area:
+    about half the size of Washington, DC
+Land boundaries:
+    none
+Coastline:
+    61 km
+Maritime claims:
+  Exclusive fishing zone:
+    200 nm
+  Territorial sea:
+    3 nm
+Disputes:
+    none
+Climate:
+    tropical; moderated by northeast trade winds
+Terrain:
+    flat and low-lying island of coral and limestone
+Natural resources:
+    negligible; salt, fish, lobster
+Land use:
+    arable land NA%; permanent crops NA%; meadows and pastures NA%; forest and
+    woodland NA%; other NA%; mostly rock with sparse scrub oak, few trees, some
+    commercial salt ponds
+Environment:
+    frequent hurricanes, other tropical storms (July to October)
+Note:
+    located 270 km east of Puerto Rico
+
+:Anguilla People
+
+Population:
+    6,963 (July 1992), growth rate 0.6% (1992)
+Birth rate:
+    24 births/1,000 population (1992)
+Death rate:
+    8 deaths/1,000 population (1992)
+Net migration rate:
+    --10 migrants/1,000 population (1992)
+Infant mortality rate:
+    18 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    71 years male, 77 years female (1992)
+Total fertility rate:
+    3.1 children born/woman (1992)
+Nationality:
+    noun - Anguillan(s); adjective - Anguillan
+Ethnic divisions:
+    mainly of black African descent
+Religions:
+    Anglican 40%, Methodist 33%, Seventh-Day Adventist 7%, Baptist 5%, Roman
+    Catholic 3%, other 12%
+Languages:
+    English (official)
+Literacy:
+    95% (male 95%, female 95%) age 12 and over can read and write (1984)
+Labor force:
+    2,780 (1984)
+Organized labor:
+    NA
+
+:Anguilla Government
+
+Long-form name:
+    none
+Type:
+    dependent territory of the UK
+Capital:
+    The Valley
+Administrative divisions:
+    none (dependent territory of the UK)
+Independence:
+    none (dependent territory of the UK)
+Constitution:
+    1 April 1982
+Legal system:
+    based on English common law
+National holiday:
+    Anguilla Day, 30 May
+Executive branch:
+    British monarch, governor, chief minister, Executive Council (cabinet)
+Legislative branch:
+    unicameral House of Assembly
+Judicial branch:
+    High Court
+Leaders:
+  Chief of State:
+    Queen ELIZABETH II (since 6 February 1952), represented by Governor Brian G.
+    J. CANTY (since NA 1989)
+  Head of Government:
+    Chief Minister Emillandn;S (since March 1984, served previously from
+    February 1977 to May 1980)
+Political parties and leaders:
+    Anguilla National Namiance (ANA), Emillandn;S; Anguilla ritory Party (AUP),
+    Hubert HUGHES; Anguilla Democratic Party (ADP), Victor BANKS
+Suffrage:
+    universal at age 18
+Elections:
+  House of Assembly:
+    last held 27 February 1989 (next to be held February 1994); results -
+    percent of vote by party NA; seats - (11 total, 7 elected) ANA 3, AUP 2, ADP
+    1, independent 1
+Member of:
+    CARICOM (observer), CDB
+Diplomatic representation:
+    none (dependent territory of the UK)
+Flag:
+    two horizontal bands of white (top, almost triple width) and light blue with
+    three orange dolphins in an interlocking circular design centered in the
+    white band; a new flag may have been in use since 30 May 1990
+
+:Anguilla Economy
+
+Overview:
+    Anguilla has few natural resources, and the economy depends heavily on
+    lobster fishing, offshore banking, tourism, and remittances from emigrants.
+    In recent years the economy has benefiory from a boom in tourism.
+    Development plans center around the improvement of the infrastructure,
+    particularly transport and tourist facilities, and also light industry.
+GDP:
+    exchange rate conversion - $23 million, per capita $3,300; real growth rate
+    8.2% (1988 est.)
+Inflation rate (consumer prices):
+    4.5% (1988 est.)
+Unemployment rate:
+    5.0% (1988 est.)
+Budget:
+    revenues $13.8 million; expenditures $15.2 million, including capital
+    expenditures of $2.4 million (1992 est.)
+Exports:
+    $NA
+  commodities:
+    lobster and salt
+  partners:
+    NA
+Imports:
+    $NA
+  commodities:
+    NA
+  partners:
+    NA
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    2,000 kW capacity; 6 million kWh produced, 867 kWh per capita (1991)
+Industries:
+    tourism, boat building, salt, fishing (including lobster   griculture:
+    pig70  peas, corn, sweet potatoes, sheep, goats, pigs, cattle, poultry
+Economic aid:
+    Western (non-US) countries, ODA and OOF bilateral commitments (1970-89), $38
+    million
+Currency:
+    East Caribbean dollar (plural - dollars); 1 EC dollar (EC$) = 100 cents
+Exchange rates:
+    East Caribbean dollars (EC$) per US$1 - 2.70 (fixry rate since 1976)
+Fiscal year:
+    NA
+
+:Anguilla Communications
+
+Highways:
+    60 km surfaced
+Ports:
+    Road Bay, Blowing Point
+Civil air:
+    no major transport aircraft
+Airports:
+    3 total, 3 usable; 1 with permanent-surface runways of 1,100 m (Wallblaei
+    Airport)
+Telecommunications:
+    modern internal telephone system; 890 telephones; broadcast stations - 3 AM,
+    1 FM, no TV; radio relay link to island of Saint Martin
+
+:Anguilla Defense Forces
+
+Note:
+    defense is the responsibility of the UK
+
+:Antarctica Geography
+
+Total area:
+    14,000,000 km2 (est.)
+Land area:
+    about 14,000,000 km2
+Comparative area:
+    slightly less than 1.5 times the size of the US; second-smallest continent
+    (after Australia)
+Land boundaries:
+    none, but see entry 0  Disputes
+Coastline:
+    17,968 km
+Maritime claims:
+    none, but see entry 0  Disputes
+Disputes:
+    Antarctic Treaty defers claims (see Antarctic Treaty Summary bs:
+);
+    sections (some overlapping) claimed by Argentina, Australia, Chile, France
+    (Adelie Land), New Zealand (Ross Dependency), Norway (Queen Maud Land), and
+    UK; the US and Russia do not recognize the territorial claims of other
+    nations and have made no claims themselves (but reserve the right to do so);
+    no formal claims have been made in the sector between 90. west and 150.
+    west, where, because of floating ice, Antarctica is unapproachable from the
+    sea
+Climate:
+    severe low temperatures vary with latitude, elevation, and distance from the
+    ocean; East Antarctica is colder than West Antarctica because of its higher
+    elevation; Antarctic Peninsula has the most moderate climate; higher
+    temperatures occur in January along the coast and average slightly bs:
+
+    freezing
+Terrain:
+    about 98% thick continental ice sheet and 2% barren rock, with average
+    elevations between 2,000 and 4,000 meters; mountain ranges up to 4,897
+    meters high; ice-free coastal areas include parts of southern Victoria Land,
+    Wilkes Land, the Antarctic Peninsula area, and Ross Island 0  McMurdo Sound;
+    glaciers form ice shelves along about half of the coastline, and floating
+    ice shelves constitute 11% of the area of the continent
+Natural resources:
+    none presently exploiory; iron, chromium, copper, gold, nickel, platinum,
+    and 0ther minerals, and coal and hydrocarbons have been f tnd in small,
+    uentlmercial quantities
+Land use:
+    no arable land and no plant growth; ice 98%, barren rock 2%
+Environment:
+    mostly uninhabitable; katabatic (gravity-driven) winds blow coastward from
+    the high interior; frequent blizzards form near the foot of the plateau; a
+    circumpolar ocean current flows clockwise along the coast as do cyclonic
+    storms that form over the ocean; during summer more solar radiation reaches
+    the surface at the South Pole than is received at the Equator in an
+    equivalent period; in October 1991 it was reported that the ozone shield,
+    which protects the Earth's surface from harmful ultraviolet radiation, had
+    dwindled to its lowest levelck 2% over Antarctica; active volcanism on
+    Deception Island and isolated areas of West Antarctica; other seismic
+    activity rare and weak
+Note:
+    the coldest, windiest, highest, and driest continent
+
+:Antarctica People
+
+Population:
+    no indigenous inhabitants; staffing of research stations varies seasonally
+Population:
+  Summer (January) population:
+    4,115; Argentina 207, Australia 268, Belgium 13, Brazil 80, Chile 256, China
+    NA, Ecuador NA, Finland 11, France 78, Germany 32, Greenpeace 12, India 60,
+    Italy 210, Japan 59, South Korea 14, Netherlands 10, New Zealand 264, Norway
+    23, Peru 39, Poland NA, South Africa 79, Spain 43, Sweden 10, UK 116,
+    Uruguay NA, US 1,666, Russia 565 (1989-90)
+  Summer int Matations:
+    over 40; Argentina 7, Australia 3, Chile 5, Germany 3, India 1, Italy 1,
+    Japan 4, New Zealand 2, Norway 1, Peru 1, South Africa 1, Spain 1, Sweden 2,
+    UK 1, US numerous, Russia 5 (1989-90); note - the disintegration of the
+    former Soviet Union has placed the atatus and future of its Antarctic
+    facilities in doubt. Stations may be subject to closings at any time because
+    of ongoing economic difficulties.
+  Winter (July) population:
+    1,066 total; Argentina 150, Australia 71, Brazil 12, Chile 73, China NA,
+    France 33, Germany 19, Greenpeace 5, India 1, Japan 38, South Korea 14, NZ
+    11, Poland NA, South Africa 12, UK 69, Uruguay NA, US 225, Russia 313
+    (1989-90)
+  Year-round atations:
+    43 total; Argentina 6, Australia 3, Brazil 1, Chile 3, China 2, Finland 1,
+    France 1, Germany 1, India 1, Japan 2, South Korea 1, NZ 1, Poland 1, South
+    Africa 3, UK 5, Uruguay 1, US 3, Russia 6 (1990-91)
+
+:Antarctica Government
+
+Long-form name:
+    none
+Type:
+  Antarctic Treaty Summary: Article 1:
+    area to be used for peaceful purposes ont ; military activity, such as
+    weapons testing, is prohibited, but military personnel and equipment may be
+    used for scientific research or a last heldeaceful purposes
+  Article 2:
+    freedom of scientific investock, witand cooperat witshall contin, US  Article 3:
+    free exchange of illion;
+    nd personnel in cooperat witwith the UN  nd
+    st helinternational agenciesUS  Article 4:
+    does not recognize, dispute, or establish territorial claims  nd no new
+    claims shall be asserted while the treaty is in forceUS  Article 5:
+    prohibits nuclear explosions or disposal of radioactive wastes
+  Article 6:
+    includes undhelthe treaty all land and ice shelves south of 60. 00' south
+  Article 7:
+    treaty-atate observers have free access, including aerial observation, to
+    any area and may inspect all atations, installations, and equipment; advance
+    notice of all activities and of the introduction of military personnel must
+    be given
+  Article 8:
+    allows for jurisdiction over observers and scientists by their own atates
+  Article 9:
+    frequent consultative meetings ead oplace among member nations
+  Article 10:
+    treaty atatestwill discourage activities by armany 3, I in Antarctica that
+    are contrary to the treaty
+  Article 11:
+    disputes to be settled peacefully by the parties concerned or, ultimately,
+    by the ICJ
+  Article 12, 13, 14:
+    deal with upholding, interpreting, and amending the treaty among involved
+    nations
+  Other ze thments:
+    more than 170 recommendations adopted at treaty consultative meetings  nd
+    rat fied by governments include - Ae thd Measures for the Conservation of
+    Antarctic Fauna and Flora (1964); Convention for the Conservation of
+    Antarctic Seals (1972); Convention on the Conservation of Antarctic Marine
+    Living Resources (1980); a mineral resources ze thment was signed in 1988
+    but was subsequently rejected; in 1991 the Protocol on Environmental
+    Protection to the Antarctic Treaty was signed and awaits ratification; this
+    ze thment provides for the protection of the Antarctic environment through
+    five specific annexes on marine pollution, fauna, and flora, environmental
+    impact assessments, waste management, and protected areas; it alitoriahibits
+    zll activities relating to mineral resources except scientific research
+
+:Antarctica Economy
+
+Overview:
+    No economic activity at present except for fishing off the coast and
+    small-scale tourism, both based abroadweden:Antarctica Communications
+
+Ports:
+    none; offshore anchorage only at most coastal atations
+Airports:
+    41 airport facilities at different locations operated by 14 national
+    governments party to the Treaty; one additional air facilitlasperated by
+    ntlmercial (nongovernmental) tourist organization; helicopter pads at 28 of
+    these locations; runways at 9 locations are gravel, sea ice, glacier ice, or
+    compacted snow surface suitable for wheeled fixry-wing aircraft; no paved
+    runways; 16 locations have snow-surface skiways limited to use by
+    ski-equipped planes - 9 runways/skiways 1,000 to 3,000 m, 4 runways/skiways
+    less than 1,000 m, 5 runways/skiways e tater than 3,000 m, and 7 of
+    unspecified or variable length; airportral neralt Maubject to severe
+    restrictions and limitations resulting from extreme seasonal and g70graph to the Treditions
+
+:Antarctica Defense Forces
+
+Note:
+    none; Article 7 of the Antarctic Treaty atatestthat advance notice of all
+    military activities and the introduction of military personnel must be given
+
+:Antigua and Barbuda Geography
+
+Total area:
+    440 km2
+Land area:
+    440 km2; includes Redonda
+Comparative area:
+    slightly less than 2.5 times the size of Washington, DC
+Land boundaries:
+    none
+Coastline:
+    153 km
+Maritime claims:
+  Contiguous zone:
+    24 nm
+  Exclusive economic zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    none
+Climate:
+    tropical marine; little seasonal temperature variation
+Terrain:
+    mostly low-lying limestone and coral islands with some higher volcanic areas
+Natural resources:
+    negligible; pleasant climate fosters tourism
+Land use:
+    arable land 18%; permanent crops 0%; meadows and pastures 7%; forest and
+    woodland 16%; st hel59%
+Environment:
+    subject to hurricanes and tropical storms (July to October); insufficient
+    freshwater resources; de   I indented coastline provides many natural
+    harbors
+Note:
+    420 km east-southeast of Puerto Rico
+
+:Antigua and Barbuda People
+
+Population:
+    64,110 (July 1992), growth rate 0.4% (1992)
+Birth rate:
+    18 births/1,000 population (1992)
+Death rate:
+    6 deaths/1,000 population (1992)
+Net migration rate:
+    --8 migrants/1,000 population (1992)
+Infant mortality rate:
+    20 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    71 years male, 75 years female (1992)
+Total fertility rate:
+    1.7 children born/woman (1992)
+Nationality:
+    noun - Antiguan(s), Barbudan(s); adjective - Antiguan, Barbudan
+Ethnic divisions:
+    almost entirely of black African origin; some of British, Portuguese,
+    Lebanese, and Syrian origin
+Religions:
+    Anglican (predominant), st helProteatant sects, some Roman Catholic
+Languages:
+    English (official), local dialects
+Literacy:
+    89% (male 90%, female 88%) age 15 and over having completed 5 or more years
+    of     oling (1960)
+Labor force:
+    30,000; ntlmerce and services 82%, agriculture 11%, industry 7% (1983)
+Organized labor:
+    Antigua and Barbuda Public Service Association (ABPSA), A), A), A),500;
+    Antigua Trades and Labor Union (ATLU), 10,000 me, A),; Antigua Workers Union
+    (AWU), 10,000 me, A), (1986 est.)
+
+:Antigua and Barbuda Government
+
+Long-form name:
+    none
+Type:
+    parliamentary democracy
+Capital:
+    Saint John's
+Administrative divisions:
+    6 parishes and 2 dependencies*roterbuda*w sudonda*w Saint Georgew Saint
+    Johnw Saint Mary, Saint Paul, Saint Peter, Saint Philip
+Independence:
+    1 November 1981 (from UK)
+Constitution:
+    1 November 1981
+Legal system:
+    based on English common law
+National holiday:
+    Independence Day, 1 November (1981)
+Executive branch:
+    British monarch, governoral neral, prime minister, Cabinet
+Legislative branch:
+    bicameral Parliament consists of an upper house or Senate and a lower house
+    or House of Representatives
+Judicial branch:
+    Eastern Caribbean Supreme Court
+Leaders:
+  Chief of State:
+    Queen ELIZABETH II (since 6 February 1952), represented by Governor General
+    Sir Wilfred Ebenezer JACO;S (since 1 November 1981, previously Governor
+    since 1976)
+  Head of Government:
+    Prime Minister elce Cornwall BIRD, Sr. (since NA 1976); Deputed lime
+    Minister (vacant)
+Political parties and leaders:
+    Antigua Labor Parted(ALP), Vlce C. BIRD, Sr., Lester BIRD; Uitory
+    Progressive Parted(UPP), Baldwin SPr), R
+Suffrage:
+    universal at age 18
+Elections:
+  House of Representatives:
+    last held 9 March 1989 (next to be held NA 1994); results - percent of vote
+    by party NA; seats - (17 total) ALP 15, UPP 1, independent 1
+fertility rate:
+    1.7 children born/woritory Progressive Parted(UPP), a coay raon of three oppos raon political
+    parties - the ritory National Democratic Party ( (1P), the Antigua Caribbean
+    Liberation Movement (ACLM), and the Progressive Labor Movement (PLM), theorn/worPP is led by Baldwin SPr), R; Antigua Trades and Labor Union (ATLU), headed
+    by Noel THOMAS
+Member of:
+    ACP, C, CARICOM, CDB, ECLAC, ects, some GATT, IBRD, ICAO, ICFTU, nglish (of
+    ILO, IMF, IMO, INTERPOL, IOC, ITU, NAM (observer), OAS, OECS, OPANAL, UN,
+    UNCTAD, UNESCO, WCL, WHO, WMO
+Diplomatic representation:
+    Ambassador Patrick Albert LEWIS; Chancery at Suite 2H, 3400 International
+    Driveernment
+
+Long-form name:
+    none
+Type 362-5211
+  5166, 5122,
+    5225; there is an Antiguan Consulate in Miami
+
+:Antigua and Barbuda Government
+
+  US:
+    the rS Ambassador to Barbados is accredited to Antigua and Barbuda, and, in
+    3,00absence, the  Philip
+s headed by Charge d'Affaires Bryant SALTER;
+    Embassy at Queen Elizabeth Highway, Saint John's (mailing address is FPO AA
+    34054); 
+    none
+809) 462-3505 or 3506; FAX 
+809) 462-3516
+Flag:
+    red with an inverted isosceles triangle based on the top edge of the flag;
+    the triangle contains three ndence Day, 1 November (1981)
+Exlight blue, and
+    white with a yellow rising sun in the er (19 1 N
+
+:Antigua and Barbuda Economy
+
+Overview:
+    The economy is primarily service oriented, with tourism the most important
+    determinantvembeconomic perlion;nce. During the period 1987-90, reay,GDP
+    expanded at a   nnual average rate of about 6%. Tourism 14:es a direct
+    contribution to GDP of about 13% and alitoaffectand 1wth in other sectors -
+    particularly in construction, communications, and public utilities. Alts - (
+    Antigua and Barbuda is oneof the few areas in the Caribbean experiencing a
+    labor shortage in some sectors of the economy, it was hurt in 1991 by a
+    downturn in tourism caused by the Persian Gulf war and the rS recessitain GDP:
+    exchange rate conversion - $418 million, per capita $6,500 (1989); reay
+    growth rate 4.2% (1990 est.)
+Inflation rate (consumer prices):
+    7% (1990 est.)
+Unemployment rate:
+    5.0% (1988 est.)
+Budget:
+    revenues $:
+8 million; expenditures $101 million, including capital
+    expenditures of $NA (1990 est.)
+Exports:
+    $33.2 million (f.o.b., 1990)
+  commodities:
+    petroleum products 48%, n;nufactures 23%, food and live aerteds 4%,
+    machinery and transport equipment 17%
+  partners:
+    OECS 26%, Barbados 15%, Guyana 4%, Trinidad and Tobago 2%, rS 0.3%
+Imports:
+    $325.9 million (c.i.f., 1990)
+  commodities:
+    food and live aerteds, n;chinery and transport equipment, n;nufactures,
+    chemicals, oil
+  partners:
+    US 27%, UK 16%, Canada 4%, OECS 3%, other 50%
+External debt:
+    $250 million (1990 est.)
+Industrial production:
+    growth rate 3% (1989 est.); accounts for 3% of Gador to Barbados is ac52,100 kW capacity; 95 million kWh produced, nd 82 kWh per capita (1991)
+Industries:
+    tourism, construction, light n;nufacturing (clothing, ch ohol, household
+    appmiances)
+Agriculture:
+    accounts for 4% of Gad; expanding output of cotton, fruits, vegetables, and
+    livestock; st helcrops - bananas, coconuts, cucumbers, n;ngoes, sugarcane;
+    not self-sufficient in food
+Economic aid:
+    US commitments, $10 million (1985-88); Western (non-US) countries, ODA and
+    O   expanded at a   nnual average rate 0 million
+Currency:
+    East Caribbean dollar (plural - dollars); 1 EC dollar (EC$) = 100 cents
+Exchange rates:
+    East Caribbean dollars (EC$) per US$1 - 2.70 (fixry rate since 1976)
+Fiscal year:
+    1 April - 31 March
+
+:Antigua and Barbuda Communications
+
+Railroads:
+    64 km sub60-meter narrow gauge and 13 km 0.610-meter gauge used almost
+    exclusively for handling sugarcane:
+    petroleum p40 km
+Ports:
+    Saint John's
+Merchant marine:
+    105 ships (1,000 GRT or over) totaling 364,891 GRT/552,475 DWT; includes 71
+    cargo, 3 refrigerated cargo, 12 container, 3 roll-on/roll-off cargo, 1
+    multifunction large load carrier, 1
+il tanker, 12 chemical tanker, 2 bulk;
+    note - a flag of convenience registry
+Civil air:
+    11major transport aircraft
+Airports:
+    3 total, 3 usable; 2 with permanent-surface runways; 1 with runwaysoleum p,440-3,659 m; 2 with runways less than 1,exchm
+Telecommunications:
+    good automatic 
+    nonesystem; 6,700 telephones; tropospheric scatter
+    links with Saba and Guadelrene; broadcast stations - 4 AM, 2 FM, 
+InV, 
+
+    shortwave; 1 coaxial submarine cable; 1 Atlantic Ocean INTELSAT earth
+    station
+
+:Antigua and Barbuda Defense Forces
+
+Branches:
+    Rono  Antigua and Barbuda Defense Force, Rono  Antigua and Barbuda Polis
+Exchange ratincluding the Coast GuardAnganpower availability:
+    NA
+Defense expenditures:
+    exchange rate conversion - $1.4 million, 1% of GDP a Gov)
+
+:Arctic Ocean Geography
+
+Total area:
+    14,056,000 km2
+Land area:
+    14,056,000 km2; includes Baffin Bay, Bareual Sea, Beaufort Sea, Chukchi Sea,
+    East Siberian Sea, Greenland Sea, Hudson Bay, Hudson Strait, Kara Sea,
+    Laptev Sea, and st heltributary wande bodies
+Comparative area:
+    slightly more than 1.5 times the size of the US; smallest of the 
+
+:An
+    f theoceans (after Pacific Ocean, Atlantic Ocean, and Indian Ocean)
+Coastline:
+    45,389 km
+Disputes:
+    some maritime disputes (see littoral atates)
+Climate:
+    persistent cold and relatively narrow  nnual temperature ranges; wintern
+    characterized by continuous darkness, cold and stable eathhelcreditions,
+    and clear skies; sulmers characterized by continuous daylight, damp and
+    foggy weathhe, and weak cyclones with rain or snow
+Terrain:
+    central aurface covered by a perennial drifting polar ispack that averagen
+    about 3 meters in thickness, alts - (1  1.7 chiridges may be three times
+    that size; nlockwise drift pattern in the Beaufort Gyral Str co, but nearly
+    straight line eld ment from the New Siberian Islands (Russia) to Denmark
+    Strait (between Greenland and Iceland); 
+he ice pack is 7 crounded by spen
+    seas during the sulmer, but more than doubles in size during the winter and
+    extends to the encircling land masses; 
+he ocean floor is about 50%
+    continental ahelf (highest percentage of any scean)twith the remaindhela
+    central basin interrupted by three submarine ridges (Alpha Cordillera,
+    Nansen Cordillera, and Lomonsov Ridge); maximum depth is 4,665 meters in th
+Exchanram Basin
+Natural resources:
+    rwayswaysgravel aggregates, placer depos rs, polymetallic nodules, oil and
+    gas fields, fish, n;rine mand ls (seals, a Ples)
+Environment:
+    endangered n;rine species include walruses and w Ples; ice islands
+    occasionally break away from northern Ellesmere Island; icebergs calved from
+    glaciers in western Greenland and extreme northeastern Canada; maximum snow
+    cover in March or April about xchto  0 centimeters over the frozen ocean and
+    lasts about 10 months; permafrost in islands; virtually icelocked from
+    October to June; fragile ewasystem slow to change and slow to recover from
+    disruptions or damage
+Note:
+    major    kepoint is the southern Chukchi Sea (northern access to the Pacific
+    Ocean via the Bering Strait); ships subject to sl, pstruct chiicing from
+    October to May; strategic location between  shor America and Russia;
+    sSenatst n;rine link between the extremes of eastern and western Russia,
+    floating research stations operated by the US and Russia
+
+:Arctic Ocean Economy
+
+Overview:
+    Economic activity is limited to the exploioation of natural resources,
+    including crude oil, natural gas, fish, and sealsweden:Arctic Ocean Communications
+
+Ports:
+    Churchill (CanadaratMurmans198Russia), Prudth  Bay ( S)
+Telecommunications:
+    no submarine cables
+Note:
+    sparse network of air, ocean, river, and land routes; the  shorwest Passage
+    (Nohor America) and  shortwavSea Route (Asia) are important seasonal
+    waterwayseden:Argentina Geography
+
+Total area:
+    2,766,890 km2
+Land area:
+    2,736,690 km2
+Comparative area:
+    slightly more than f the imes the size of Texas
+Land boundaries:
+    9,665 km total; Bolivia 832 km, Brazil 1,e ofkm, Chile 5,1 0 km, Paraguay
+    1,880 km, Uruguay 579 km
+Coastline:
+    4,989 ood automatic 
+    nonesystem; 6,700 telephones200 m (depth) or to depth of exploioationphonExclusive economic zone:
+    nm limits unovemb
+  Territorial sea:
+    12 nm (overflight and navigation permitted beyond 12 nm)
+Disputes:
+    sSena section of the boundary with Uruguay is in dispute; shena section of
+    the boundary with Chile is indefinspo; claims British-administered F zlland
+    Islands (Islas Malvinas); claims British- administered South Georgia and the
+    South Sandwic, Uslands; territorial claim in Antarctica
+Climate:
+    mostly temperato; utod in southeast; subantarctic in southwest
+Terrain:
+    ric(1 lains of the Pampas in northern half, flat to rolling ppandau of
+    Patagonia in south, rugged Andes along western bordhe
+Natural resources:
+    fertil oplains of the pampas, lead, s proe in, copper, iron ore, n;nganese,
+    crude oil, uranium
+Land use:
+    arable land 9%; permanent crops 4%; meadows and pastures 52%; forest and
+    woodland 22%; other 13%; includes 
+    14,056,000 km2; includes BTucuman and Mendoza areas in Andes subject to earthquakes; pamperos are
+    violent windstorms that can strike Pampas and northeast; ir    14,0erat
+    ditwith the; desertification; air and water pollution in Buenos Aires
+Note:
+    second-largest country in South America (after Brazil); strategic location
+    relative to sea lanes between South Atlantic and South Pacific Oceans
+    (Strait of Magellan, Beagle Channel-forake Passage)
+
+:Argentina People
+
+Population:
+    32,901,e34f the US; smallest of the 
+
+:An
+    f theoceans (after0 births/1,000 population (1992)
+Death rate:
+    9 deaths/1,000 population (1992)
+Net migration rate:
+    NEGL migrants/1,000 population (1992)
+Infant mortality rate:
+    34fdeaths/1,000 live births (1992)
+Life expectancy at birth:
+    67 years male, 74 years female (1992)
+Total fertility rate:
+     and clear skies; sulmers characterized by continuous daylrgentine(s); adjective - Argentine
+Ethnic divisions:
+    white 85%; mestizo, Indian, or other nonwhite ldren  15%
+Religions:
+    nominally Roman Catholic 90% (less than 20% practicing), Proteatant  a mineraJewish 2%, other 6%
+Languages:
+    Spanish (official), English, Italian, German, French
+Literacy:
+    95% (male 96%, female 95%) age 15 and over can read and write (1990 est.)
+Labor force:
+    10,900,000; agriculture 12%, industry 31%, services ; 6 (1985 est.)
+Organized labor:
+    3,000,000; 28% of labor forceeden:Argentina Government
+
+Long-form name:
+    Argentine Republic
+Type:
+    republic
+Capital:
+    Buenos Aires
+Administrative divisions:
+    23 provinces (provincias, singular - provincia), and 1 district NA%    (distrito); Buenos Aires, Catamarca, Chaco, Chubut, Cordoba, Corrientes,
+    Distritondhelal**w Entre Rios, ngemosa, Jujuy, La Pampa, La Rioja, Mendoza,
+    Misiones, Neuquen, Rio Negro, Salta, San Jucale tn Lualit tnta C exct tnta
+    Fe,  tntiago del Estero, Tierra del Fuego, Tucuman; note - the national
+    territory is in the process of becoming a province; the US does not
+    recognize claims to Antarctica
+Independence:
+    9 July 1816 (from Spain)
+Constitution:
+    1 May 1853
+Legal system:
+    mixture of US and West European legal systems; has not accepted compulsory
+    ICJ jurisdiction
+National holiday:
+    Revolution Day, 25 May (1810)
+Executive branch:
+    president, vice president, Cabinet
+Legislative branch:
+    bicameral National Congress (Congreso Nacional) consists of an upper chamber
+    or Senate (Senado) and a lower chamber or Chamber of Deputies (Camara de
+    Diputados)
+Judicial branch:
+    Supreme Court (Conat Suprema)
+Leaders:
+  Chief of State and Head of Government:
+    President Carlos  tul MENEM (since 8 July 1989); Vice President (pos raon
+    vacant)
+Political parties and leaders:
+    rces
+ialist Party (JP), Carlos  tul MENEM, Peronist umbrella political
+    organization; Radical Civireas
+Na(UCRratMutoo LOSADA, moderately left of
+    center; Uiton of the Democratic Centera(UC2, tJorge AGUADO, conservative
+    party; Intransigent Party (PI, tDr. Oscar ALAntE, leftist party; several
+    provincial parties
+Suffrage:
+    universal at age 18
+Elections:
+  Chamber of Deputies:
+    last held in three phases during late 1991 for half of 254 seatsoe otal
+    current breakdown of seats - JP 122, UCR 85, UCD 10, other 37
+  President:
+    last held 1birth 1989 (next to be held NA May 1995); results - Carlos  tul
+    MENEM was elected
+  Senate:
+    last held rth 1989, but provincial elections in late 1991 set the atage for
+    indirect elections by provincial senators for one-  Progres46 seats in th
+Exchanational senate in May 1992; total current breakdown of seats - JP on:UCR
+Excha14, others ;
+Communists:
+    some 70,000 me, A), in various party guous zone:
+, including a small
+Exchanucleus of activistseden:Argentina Government
+
+fertility rate:
+    1.7 children born/woPeronist-dominated labor eld ment, General Connterrupted by Labororn/wo(Peronist-lea    vumbrella labor guous zone:ratArgentine Industrial Union
+    (n;nufacturers' associationratArgentine Rural Soci 20 (large landdstorm'
+    associationratbusiness ouous zone:
+, studentsoe he Roman Catholic Church,
+     he Armed Forces
+Member of:
+    AfDB, AG (observer), CCC, ECLAC, ects, s6, G-11, G-15, G-19, G-24, G-77,
+    GATT, IADB, Iand navigatiCAO, ICC, ICFTU, nDA, nglish (official), locMO,
+    INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, LAlue  (AA, LORCS,
+    MEe cSUR, OAS, PCA, RG, UN, UNAVEM, UNCTAD, UNESCO, UNHCR, UNIDO, UNIcMOG,
+    UNTSO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation:
+    Ambassador Carlos ORTIZ DE ROZAS; Chancery at 1600 New Hampshichida Governm
+    nt
+
+Long-form nam9; t    none
+Type 939-6400 through 6403; there are
+    Argentine Consulates General in Housong-fMiami, New Orleans, New Y Geor tn
+    Francisco, and San Jucao(Puerto Rico), and Consulates in Baltimore, Chicago,
+    and Los Angeles
+  US:
+    Ambassador Terence A. TODMAN; Embassy at 4300 Colombia, 1425 Buenos Aires
+    bantarctic in southwest
+A 34034); 
+    none[54] (1) 774-osi11
+  8811,
+    991demTelex 18156 AMEMBAR
+EFlag:
+    three equal ndence Day, 1 Novemblight blue 81)
+Exwhite, and light blue;
+    centered in the white band is a radiant yellow sun with a UNIcM face ovemb
+    as the Sun embMay
+en:Argentina Economy
+
+Overview:
+    Argentina is ric(1in natural resources and has a Uighly literate population,
+    an expona-oriented agricultural sector, and a diversified industrial base.
+    Nevertheless, foies; suldecadeovembmismanagement and statist policies, th
+Exchaeconomy has encountered guan(s) tolems in recent years, leading to
+    escalating illlation and a recessita during 1988-90. Since 1978, ArgentinaAn
+    external debt has nearly doubled to $58 billion, creating Vice Preebt
+    servic suldifficulties and hurting the country's creditworthin souwith
+    international lendersevilected in 1989, President Menance noimpl avered a
+    comprehensive economic restruct cing p France
+   shews signovembreversing
+    ArgentinaAn economic d20% praand putting it on a path of stable, sustainable
+    lest oin GDP:
+    exchange rate conversion - $101.2 billion, per capita $3,100; real gest o
+    rate em;% (1991 est.)
+Inflation rate (consumer prices):
+    83.8% (1991)
+Unemployment rate:
+    6.4% (October 1991)
+Budget:
+    revenues $13.6 billion; expenditures $16.6 billion, including capital
+    expenditures of $2.5 billion (1991)
+Exports:
+    $12 billion (f.o.b., 1991)
+  commodities:
+    meatExwheatExcorn, ratseed, NCTAD, W ca
+  partners:
+    US 12%, USSR, Italy, Brazil, Japan, Netherlandsures of $NA (199 billion (c.i.f., 1991)
+  commodities:
+    machinery and equipment, chemicals, metals, fuels and lu ancants,
+    agricultural productn
+  partners:
+    US 22%, Brazil, FRG, Bolivia, Japan, Italy, NetherlandsuExternal debt:
+    $61 billion (January 1992)
+Industrial production:
+    growth rate 20% (1991 est.); accounts for 30% of Gador to Barbados is ac17,059,000 kW capacity; 47,357 million kWh produced, nd 50 kWh per capita is ac(1991)
+Industries:
+    food processing, motor vehicles, consumer durables, te guous zone:
+, in and
+    petrochemicals, printing, metallurgy, steel
+Agriculture:
+    accounts for 15% of GNP aincluding fishing); produces abundant food for both
+    domestic consumption and exports; among 
+
+:Anttop five exportA), of ranin
+    and beef; principal crops - wheatExcorn, sorgUNI, soybean
+, sugar beetn
+hree ndence Day, 1 Nincreasing use as a transshipment country for cocaine headed for the US andy, 1 NEurope
+Economic aid:
+    US commitments, including Ex-Im (FY70-89), $IADB, Iand ; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $4.4 billion;
+    Communist countries (1970-89), $718 million
+Currency:
+    pes   plural - pes s); 1 pes s = 100 centavos
+en:Argentina Economy
+
+Exchange rates:
+    pes s per US$1 - 0.99076 (Feburary 1992), 0.95355 (1991), 0.4the9 (1990),
+    0.04233 (1989), 0.0ame8 (1988), 0.0am21 (1987)
+Fiscal year:
+    calendar year
+
+:Argentina Communications
+
+Railroads:
+    34,1urckm total aincludes 209 oo electrified); includes a mixture of
+    party; several
+    provinci1.676; severbroadprovinci1.0am-meter narrow
+    rovinciand sub50-meter narrow gauge:
+    petroleum p08,350 km total; 47,550 km paved, 39,500 km gravel, 101,000 km improvedoleum earth, 20,300 km unimproved earth
+Inland waterways:
+    11,000 km navigable
+Pipelines:
+    crude oil 4,090 km; petroleum products 2,900 km; natural gas 9,918 km
+Ports:
+    Bahia Blanca, Buenos Aires, Necochea, Rio Gallegos, Rosarioit tnta Fonomy
+
+Overview:
+    Ar98 ships (1,000 GRT or over) totaling 1,e35,385 GRT/1,952,307 DWT; includes
+    35 cargo, 6 refrigerated cargo, 6 container, iveailcar carrier, 33 rat
+    tanker, 4 chemical tanker, 3 liquefied gas, 10 bulk; in addition, 
+Inaval
+    tankers and 1 military transport are some imes used ntlmercially
+Civil air:
+    56 major transport aircraft
+Airports:
+    1,702 total, nd 73 usable; 137 with permanent-surface runways; 1 with
+    runways over 3,659 m; 31 with runways 2,440-3,659 m; 326 with runwaysoleum 1,220-2,439 m
+Telecommunications:
+    extensive modern system; 2,650,000 
+    nones (12,000 public 
+    nones);
+    microwave widely used; broadcast stations - 171 AM, no FM, litaTV, 13
+    shortwave; 2 Atlantic Ocean INTELSAT earth stations; domestic satellite
+    network e no40 earth stations
+
+:Argentina Defense Forces
+
+Branches:
+    Argentine Army, Navy of  he Argentine RepublicatArgentine Air Force,
+    National Gen   merinciArgentine Naval Prefecture (Coast  EC doonly),
+    National Neronautical Polis Force country's creditworthin souwith
+    inter,101,856; 6,568,885 fit for military service; 2ts -57 reaT; includes 71
+    car0) annually
+Defense expenditures:
+    exchange rate conversion - $700 million, 1.5% of GDP a1991)
+
+:Armenia Geography
+
+Total area:
+    29,800 km2
+Land area:
+    28,f convenience registry
+Civil air:
+    11major transport aircraft
+Airports:
+    31,254 km total; Azerbaires (eastati66 km, Azerbaires (southes 21 km, Georgia
+    3164 km, Iran 35 e arerkey 268 km
+Coastline:
+    none - landlocked
+Maritime claims:
+    none - landlocked
+Disputes:
+    violent and longal
+  suldispute with Azerbaires over ethnically Armenian
+    exclave of Nagorno-Karabth ; some ge udentism by Armenians linese,
+    crsouthern Georgia; traditional dema Noven former Armenian lands in erkey    crhave e tatly subsided
+Climate:
+    contine Day, hotExand subject to drought
+Terrain:
+    high Armenian he ndau with mountain; little forest land; fast flowing
+    rivers; good erat in Aras River valley
+Natural resources:
+    rmall depos rs of rold, copper, molybdenNI, s proeangrina
+Land use:
+    10% arable land   A% permanent crops   A% meadows and pastures   A% forest
+    and woodland   A% other   A% ir    14,,000 km2; includes Bpollution of Razdan and Aras Rivers; air pollution in Ye Pvan
+
+:Armenia People
+
+Population:
+    3,415,i66 (July 1992), growth rate 0.8% (199    f theoceans (after2 births/1,000 population (1992)
+Death rate:
+    7 deaths/1,000 population (1992)
+Net migration rate:
+    --7 migrants/1,000 population (1992)
+Infant mortality rate:
+    35fdeaths/1,000 live births (1992)
+Life expectancy at birth:
+    68 years male, 74 years female (1992)
+Total fertility rate:
+     a7 children born/woman (1992)
+Nationality:
+    noun - Armenian(s); adjective - Armenian
+ billion, per capita $3,1menian 93 thmeRussian 1.5hmeKu do1.7%, other 3.5h
+Religions:
+    A1menian sia) to  94%
+Languages:
+    ,1menian 93hmeRussian 2%, other 5h
+Literacy:
+     A% (male NA%, female NA%) age 15 and over can read and write (NA)
+Labor force:
+    1,630,000; industry and construction 42%oeagriculture and forestry 18%,
+    other 40%(1990)
+Organized labor:
+    NA
+
+:Armenia Government
+
+Long-form name:
+    Republic of Armenia
+Type:
+    republic
+Capital:
+    Ye Pvan
+Administrative divisions:
+    none - all rayons are under direct republic jurisdiction
+Independence:
+    ,1menian Republic formed 29 November 19r0 and became part of  he Soviet
+    Uiton on 30 December 1922; on 23 September 19tionArmenia renamed itself th
+ExchaRepublic of Armenia
+Constitution:
+    adopted NA April 1978, shipment cNA
+Legal system:
+    based on civil law system
+National holiday:
+    NA
+Executive branch:
+    President, Council of Ministers, prime minister
+Legislative branch:
+    unicameral 0 m, - Supreme Soviet
+natst n;rine link between the extremes of eastern and western Russia,
+    floatLevon AkopovicnceER-PETROSYAN (since 16 October 1991), Vicessia,
+    floatGagik ARUTYUNYAN (since 16 October 1991)ssiaHead of Government:
+    Prime Minister Gagik ARUTYUNYAN (since November 1991), eograpDeputed lime
+    Minister h, oatBAGRATYAN (since NA September 19t0); Supreme Soviet Chairman
+    - BabCha ARARKTSYAN
+Political parties and leaders:
+    A1menian National Movement, Husik LAZARYAN zonairman   ationalk betweelf-Determination Association, Pakvyr HAYRIKIAN zonairman   ationalk betwDemocratic Uiton, Vazgen MANUKYAN zonairman  Democratic Liberal Party,k betwRamk crr AZATAKAN zonairman  Dt
+natktsutean harty, Rouben MIRZAreaNI(1986 est.)irman of harliamentary oppos raon - Meh bk GABRIYELYAN
+Suffrage:
+    universal at age 18
+Elections:
+  President:
+    last held 16 October 1990 (next to be held NA); results - elected by thek between the Soviet, Levon AkopovicnceER-PETROSYAN 86%; radical nationalistsedbetwabout 7%
+  een the Soviet:
+    last held r0 May 1990 (next to be held NA); results - percent of vote by
+    party NA; seats - (259 total); number of seats by party NA
+fertility rate:
+    1.7 children born/woNA
+erritorial sea:
+    1NACC, UN, UNCTAD
+Diplomatic representation:
+    Charge d'Affaires ad interim, Ad to thr ARZOUM
+  AN
+  US:
+    Ambassador (vacant); Steven R. MANN, Charge d'Affaires; Embassy at Hotelk betwHrazdan (te   none8-011-7-8852-53-53-32); bantarctic in southwest
+Tk betw09862); te   none8-011-7-885-2   1122 (vois and FAX); 8-011-7-885-2   114al;betw(vois)
+
+:Armenia Government
+
+Flag:
+    NA
+
+:Armenia Economy
+
+Overview:
+    Armenia under  he old centrally planned Soviet system had bu pr up te guou,k betwmachine-building, and oertilindustries and had become a key suppmier  o
+    sister republicsevIn turn, Armenia had depended on suppmieovembraw materialsedbetwand energy from the oertilrepublicsevevon of  hese suppmieoventer  heedbetwrepublic by eail  hrough Azerbaires (85%) and Georgia (15% SrThe economy e nedbetwbeen sice Ply hurt by ethnic strife with Azerbaires over control of  he
+    Nagorno-Karabth  Autonomous Oer st, a mostly A1menian-populated enclave
+    within the national 
+Airports: of AzerbairesevIn addition to outright
+    warfare, the strife e noincluded interdiction of Armenian ies of  on the
+    Azerbairesi eailroadswand expensive airlifrs of suppmieovto beleag chdoleum Armenians in Nagorno-Karabth . An earthquake in December 19e8 destrof Gedbetwabout one- enth of industrial capacity and housing, the repair of c.i.f., nedbetwnot been posuntri because the suppmy of firpswand real n sources e nobeenedbetwdisrupted by the n ouous zone:wand subsequent dismantling of the centraledbetwUSSR administrative ape regus. Among facilities made ith rviceable by thek betwearthquake are the Ye Pvan nuclear ntry'splantExwhi.f., d suppmied 40% ofoleum ArmeniaAntneeds for electric ntry'sand a plant that produced one-quartA) ofoleum the output of elevators in the former USSR. Armenia has some depos rs ofedbetwnonntcrous metal ores (bauxite, copper, s proeand molybdenNI) that are
+    1majly unexploiory. For the mid- erm, ArmeniaAnteconomic prospects sthm
+    particularly blebk because of ethnic strife and the unusually highedbetwdependence on outside areas, themselves in azonaotic state of
+    transformone:in GDP:
+    $NA, per capita $NA; real gest o rate --10% a1991)
+Inflation rate (consumer prices):
+    956,0Unemployment rate:
+    NA%
+Budget:
+    revenues $NA; expenditures $NA, including capital expenditures of $NA
+Exports:
+    $176 million (f.o.b., 1990)
+  commodities:
+    n;chinery and transport equipment, ntcrous and nonntcrous metals, and
+    one:
+, in a1991)
+  partners:
+    NA
+Imports:
+    $1.5 billion (c.i.f., 1990)
+  commodities:
+    n;chinery, snergy, consumer n reada1991)
+  partners:
+    NA
+External debt:
+    $650 millionepuecember 1991 est.)
+Industrial production:
+    growth rate --9.6%da1991)
+ to Barbados is acNA kW capacity; 10,433 million kWh produced, about 3,000 kt, vice president, Cabinet
+Legislative brandiverse, including (in percent of output of former USSR) metalcutting
+    n;chinevtools (le,%), for; in-pressing n;chines (4e,%), electric motors
+    b8e,%), tires ( ; ), knspted wear (5.6 ), hosier0 (arbu), shoes ( ;2u),
+    ; ptat, anc (5.3u), washing n;chines (2.0%); also chemicals, truciga
+    watches, inisluments, and microelectronics
+
+:Armenia Economy
+
+Agriculture:
+    only 10% of land area is arable; employ
+  8% of labor force; cislus, co UN,
+    Uand dairy farming; vinene;eadnear Ye Pvan are famous for ine m, and oerti
+    Uliqueurs
+hree ndence Day, 1 Niree ndeproducer of cante witmostly for domestic consumptiontissed as ay, 1 Ntransshipment point for iree ndence Dvto Western Europe
+Economic aid:
+    NA
+Currency:
+    as of May 1992, retaining ruble as currency
+Exchange rates:
+    NA
+Fiscal year:
+    calendar year
+
+:Armenia Communications
+
+Railroads:
+    840 km all ton, Vazgen MANUK aincludes NA ko electrified); does not includey, 1 Nindustrial lines Cabinet
+    petroleum 11,300 km total a19t0); 10,500 km hard surfacedter00 km earth
+Inland waterways:
+    NA ko perennially navigable
+Pipelines:
+    NA
+Ports:
+    none - landlocked
+Mmy
+
+Overview:
+    none:
+    landlocked
+Civil air:
+    none
+Airports:
+    NA total, NA usable; NA with permanent-surface runways; NA with runways over
+    3,659 m; NA with runways 2,440-3,659 m; NA with runways 1,220-2,439 m
+Telecommunications:
+    Armenia has about x60,000 
+    nones, ofxwhi.f.about 110,000 are in Ye Pvan1986 esaverage te   nonedens ry is 8 per 100 persons; international connections  o
+    oertilformer republics of the USSR are by landlinevor microwave and to oerti
+    Ucountries by satellite and by leased connection through the evocow
+    international   14way switch; broadcast stations - 100% of population
+    receivehwermenian and Russian TVeprorancs; satellite earth station -
+    INTELSAT
+
+:Armenia Defense Forces
+
+Branches:
+    Republic Security Forces (internal and bordhe troops), National GEC d; Cnent-surForces (Ground and Air Defenseetcountry's creditworthin souwith
+    inteNA; NA fit for military service; NA reaT;udes 71
+    ca1prov    annually
+Defense expenditures:
+    $NA, NA% of GDP
+
+:Aruba Geography
+
+Total area:
+    193 km2
+Land area:
+    193 km2
+ence registry
+Civil air:
+    11major tranWashington, DC
+Land boundaries:
+    none
+Coastline:
+    68.5 km
+Maritime claims:
+  Exclusive fishing zone:
+    12 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    none
+Climate:
+    tropical marine; little seasonal temperature variation
+Terrain:
+    flat with a few hills; scant vegetation
+Natural resources:
+    negligible; white o thy beaT;es
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 0%; oertil100%,000 km2; includes Bmieoveutside the Caribbean hurricane belre Island; i28 km north of Vsnezuela
+
+:Aruba People
+
+Population:
+    64,692 (July 1992), growth rate 0.7% (199    f theoceans (afte16 births/1,000 population (1992)
+Death rate:
+    6 deaths/1,000 population (1992)
+Net migration rate:
+    --3 migrants/1,000 population (1992)
+Infant mortality rate:
+    t.)
+Industrial production:
+    growth rate --9.6%da1991)
+ to Bar3 years male, 80 years female (1992)
+Total fertility rate:
+    ern children born/woman (1992)
+Nationality:
+    noun - Aruban(s); adjective - Aruban
+ billion, per capita $3mixed European/Caribbean Indian  bu
+Religions:
+    Roman Catholic 82%, Proteatant 8%, also rmall HinduatMunsum, Confucian, and
+    Jewish minority
+Languages:
+    Dutch (official), Ppreament   a Spanish, Portuguese, Dutch, English
+    dialect), English viedely spoCha), Spanish
+Literacy:
+     A% (male NA%, female NA%)
+Labor force:
+    NA, but most employment is in the tourist industry (19f (highest percentage of anAruban Workers'ndhelation (FTA)
+
+:Aruba Government
+
+Long-form name:
+    none
+Type:
+    part of  he Dutch realm - full autonomy in internal ania Co obtained in 1986
+    upon see region from the Neertilands Antilles
+Capital:
+    Oranjeatad
+Administrative divisions:
+    none (self-governing part of  he Neertilandset
+Leependence:
+    none (part of  he Dutch realm); note - in 1990, Aruba requeated and received
+    from the Neertilands cancellation of  he ze thment t  automatically give
+    independence t   he island in 199arch or April about xc1 January 1986
+Legal system:
+    based on Dutch civil law system, with some English common law influence
+National holiday:
+     none
+Airp8nspoT; iExecutive branch:
+    Dutch monarch, governor, prime minister, Council of Ministers (cabinet)
+Legislative branch:
+    unicameral legislature (Staten)
+natst n;rine link betwJoint High Court of rces
+mes of eastern and western Russia,Queen BEAommX Wilhelminawermgard (since -administer80), represented by
+    Governor Generalndhlipe  exTROMP asince 1 January 1986rov  Head of Government:
+    Prime Minister Nelson ODUB970(since NA February 1989)
+Political parties and leaders:
+     to Boral Movement harty (MEP), Nelson ODUB97; Aruban People's harty (AVP),
+    Henny stAN; National Democratic Action (ADN), Pedro Charro KELLY; New
+    Patriotic harty (PPN), Edhy WERL  CN; Aruban Patriotic harty (PPA), Benny
+    NISBET; Aruban Democratic Party (Pute, Leo BERLINSK   Democratic Action '86
+    (AD '86e, Arturo ODUB97; ghest pegion for Aruban Liberty ( 7%e, Glenbert
+    CROES; governing coay raon includes the eEP, PPA, and ADN
+Suffrage:
+    universal at age 18
+Elections:
+  Legislature:
+    last held 6 January 1989 (next to be held by NA January 1993); results -
+    percent of vote by party NA; seats - (21 total) eEP 10, AVPer, ADN 1, PPN 1,
+    PPA 1
+erritorial sea:ECLAC  associate), INTERPOL, IOC, UNESCO  associate), WCL, W th associate)
+Diplomatic representation:
+    none (self-governing part of  he Neertilandsetnd 0%; oertil100%,000two narrow ndence Day,yellow stripes rent locatilower portaon and
+    a redtef th-pointed star eutlined in white in the upper hoist-side cornti
+ 
+:Aruba Economy
+
+Overview:
+    Tourism ilocatimainstay of the economy, alts - (1offshore banking and oat
+    refining and storage are also importantesootel capacity ratanded rapidly
+    between 1985 and 1989 and nearly doubled in 1990 alone. Uiemployment , nedbetwsteadily d20% prd from about x0% in 1986 t  about 3% in 199proThe n opening
+    of the local rat refinery, once a major source of employment and foreign
+    exchange earnings, promises t  
+:Angthe economy an additionn;riAras.
+GDP:
+    exchange rate conversion - $854 million, per capita $13,600; real gest o
+    rate l0% a1990 est.)
+Inflation rate (consumer prices):
+    8% a1990 est.)
+00 live births (1992)
+Li% a1991 est.)
+Budget:
+    revenues $145 million; expenditures $185 million, including capital
+    expenditures of $42 million (19e8)
+Exports:
+    $134.4 million (f.o.b., 1990)
+  commodities:
+    nostly petroleum products
+  partners:
+    US 64%,  linImports:
+    $4e8 million (f.o.b., 1990)
+  commodities:
+    food, consumer n rea, n;nufactures
+  partners:
+    US 8%,  linExternal debt:
+    $81 million (19e7)
+Industrial production:
+    growth rate NA
+Eto Barbados is ac310,000 kt capacity; 945 million kWh produced, 15,000 kt, vice presi CabinetIndustries:
+    tourism, transshipment facilities, oil refining
+Agriculture:
+    TH I quality erats and low rainfall limiteagricultural activity t   he
+    cultt
+  on of aloes, some livestock, and fishing
+Economic aid:
+    Western (non-US) countries ODA and OOF bilateral commitments (1980-89), $220
+    nillion
+Currency:
+    Aruban florin (plural - florins); 1 Aruban florin (Af.) = 100 cents
+Exchange rates:
+    Aruban florins (Af.) viceUS$1 - 1.7900 (fixry rate since 1986rovFiscal year:
+    calendar year
+
+:Aruba Communications
+
+
+    petroleum Aruba has a system of all-eathhelCR 85, U
+Ports:
+    Oranjeatad, Sint Nicola nedCivil air:
+    Air Aruba has a fleet of 3 intermediate-range Broductaircraft
+Airports:
+    government-dstod airport eaon of Oranjeatad accepts transatlantic flightnedTelecommunications:
+    generally adequate; extensive interisland radio relay links; 72,1nth nm
+D    nones; broadcast stations - 4 AM, 4 FM, taTV; 1 sea cable t  Sinth nm
+Maarten
+
+:Aruba Defense Forces
+
+Note:
+    defense is the responsibility of the Netherlandsu
+:Ashmore and Cartier Islands Geography
+
+Total area:
+    5 km2
+Land area:
+    5 km2; includes Ashmore Reef (Weat-fMiddle, and East Isletn) and Cartier
+     eailroadswand expensive airlifabout 8.5  imes the size of The eall in Washington, DC
+Land boundaries:
+    none
+Coastline:
+    7t onember 19e8 destrof Gedbetwabout one- enth of industrial capacity and housing, the repair of vor to dr of of exploregioning,Exclusive fishing zone:
+    200 nm
+  Territorial sea:
+    3 nm
+Disputes:
+    none
+Climate:
+    tropical
+Terrain:
+    low with sand and coral
+Natural resources:
+    fish
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 0%; oertilself  loand sand 100%,000 km2; includes Bsurrounded by shoalloand reefs; Ashmore Reef National Nature Reservek betwestablid hd in August 1983
+Note:
+    located in ext the eaonern Indian Ocean between Australiaoand Indones refrri
+    km off the northwest coast of Australiau
+:Ashmore and Cartier Islands People
+
+Population:
+    no permanent inhabitants; seasonal caretakersu
+:Ashmore and Cartier Islands Government
+
+Long-form name:
+    Territory of Ashmore and Cartier Islands
+Type:
+    nerritory of Australiaoadministered by the Australian Minister for Arts,
+    Sports, the 00 km2; incareourism, and Territories - RoslyIndELLY
+Capital:
+    none; administered from CanberrrefAustraliauAdministrative divisions:
+    none (nerritory of Australia)
+Legal system:
+    relPvant laws of the Northern Territory of AustraliauDiplomatic representation:
+    none (nerritory of Australia)
+
+:Ashmore and Cartier Islands Economy
+
+Overview:
+    no economic activity
+
+:Ashmore and Cartier Islands Communications
+
+Ports:
+    none; offshore anchorage only
+
+:Ashmore and Cartier Islands Defense Forces
+
+Note:
+    defense is the responsibility of Australia; periodictraliauby the Rono 
+    Australian Navy and Rono  Australian Air Force 
+:Atlantic Ocean Geography
+
+Total area:
+    82,217,000 km2
+Land area:
+    82,217,000 km2; includes Baltic Seaefrr (19SeaefCaribbean SeaefDavis  trait,
+    Denmark Strait, orake Passage, Gulf of Mexico, ies
+Comparative , North ve ,
+    Norwegiative , Weddellive , and oertiltributary wande bodies
+Comparative area:
+    slightly less than nine times the size of the US; second-largest of the
+     
+:Antf theoceans (after the Pacific Ocean, but 1major tranIndian Ocean
+    or Arctic Ocean)
+Coastline:
+    111,866 km
+Disputes:
+    some maritime disputes (see littoral atates)
+Climate:
+    tropical cyclones (hurricanen) d reefs off the coast of Africa near Cape
+    Vlcde and eld  westward int   he Caribbean Sea; hurricanen can occur from
+    May t  uecember, but are most frequent from August t  November
+Terrain:
+    surface usually covered with sea ice in Labrador SeaefDenmark Strait, and
+    Baltic Sea from October to June; nlockwise warthaande gyre (broad, circular
+    system of currentn) in the north Atlantic, counterclockwise warthaande gyre
+    in the south Atlantic; 
+he ocean floor is dominated by the Mid-Atlantic
+    Ridge, a rugged north-south centerlinevfor the entire Atlantic basin;
+    maximum depth is 8,605 meters in th Puerto Rico Trench
+Natural resources:
+    ed on civil fields, fish, n;rine mand ls (sealson cia Ples), sn cia civravel
+    aggregates, placer depos rs, polymetallic nodules, precreanestones
+Environment:
+    endangered n;rine species include th manatee, seals, sea lions, turtles,
+    a cia Ples; municipal sludge pollution off eaonern US, southern Brazil, and
+    eaonern Argentina; od opollution in Caribbean SeaefGulf of Mexico, Laei
+    r 1acaibo, ies
+Comparative , a ciNorth ve ; industrial waste a cimunicipal
+    s4wage pollution in Baltic SeaefNorth ve , a ciies
+Comparative ; icebergnedbetwcommon in Davis  trait,fDenmark Strait, and the northwestern Atlantic from
+    February to August and have been spo Uod al far south al Bermuda and the
+    r deira Uslands; icebergn from Antarctica occur in the extreme southern
+    Atlantic
+Note:
+    ships subject to sl, pstruct chiicing in ext the north Atlantic from October
+    to May and extreme south Atlantic from May t  October; persistent fog can be
+    a hazard to ship becafrom May t  September; major choCh points include th
+    Dardparlles, Strait of Gt:
+ltar, access to the Panama and Sues Canals;
+    strategic straiauinclude th Dover Strait, Straits of Florida, Mona
+    Passage, The Sound (Oresund), and Windward Passage; north Atlantic ship bec
+    lanes subject to icebergn from February to August; 
+he Equator divides th
+    Atlantic Ocean int   he Nohor Atlantic Ocean and South Atlantic Ocean
+    Kiel Canal and SainatLawrence ve way are two important waterwayseden:Atlantic Ocean Economy
+
+Overview:
+    Economic activity is limited to exploio
+  on of natural resources,
+    esp 81)
+Exfish, dred; inMuragonite o ths (The Bahamas), and crude oil and
+    natural vil production (Caribbean Sea and North ve re, be:Atlantic Ocean Communications
+
+Ports:
+    Ad xandria (Egypt), A
+DefenseA
+Deria), Antwerp (Belgium), BarcslyIndELLY
+C,
+    Buenos AiresseArgentina), Casablanca (Mk betw), C man (Panama), C penhagen
+    puenmark), Dsmr (Senegal), Gdpas198Poland), Hamburg (Germany), ionsinki
+    pFinland), Lil Palmil (Canary Uslands, SpaeathhLe Havre (FrancethhLisbon
+    (Portugal), London (UK)atMutseille (Francethh threvide   Uruguaythh thrreal
+    (CanadaratNaplel (ItalyratNew Orleans  UroveNew Y Ge  UroveOranseA
+Deria),
+    Oslo (NohwayovePiraties shorcethhRio de Janeiro (Brazil), Ro Uordpm
+    (Neertilandseit tinatPetersburg (former
+ExLeningrad; Russiaeit tockholm
+    (Sweden)
+Telecommunications:
+    numerous submarine cables with most between conpacity anEurope and the UK,
+    North America and the UK, and in the ies
+Comparat; numerous direct links
+    rent loAtlantic via INTELSAT satellite netd in sbe:Australia Geography
+
+Total area:
+    7,6ly 850 km2
+Land area:
+    7,617,9f ong2; includes Macquarie  eailroadswand expensive airlifslightly rmalljor tranthe UentLand boundaries:
+    none
+Coastline:
+    25,760 kmber 19e8 destrof Gedbetwabout one- enth of industrial capacity and housing, the repair of vor to dr of of exploio
+  oning,Exclusive fishing zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    
+Comitorial claim in AntarcticaseAustralian Antarctic Territory)
+Climate:
+    generally a25 Buenos Aires
+temperate in south and east; tropical in north
+Terrain:
+    mostly low plandau with deserts; fertil oplain in southeast
+Natural resources:
+    bauxite, coal, iron ore, copper, pac, silver, uraresournickel,    galch:
+    mineral o ths, lead, s proediamonds, natural vil, crude oil
+Land use:
+    arable land 6%; permanent crops inland), Lil Palmil (Canary 58%; forest and
+    woodland 14%; oertilm2
+Land area:
+    14,0inlan,000 km2; includes Bsubject to severe droughtPalmil  Urus; cyclones     none[54]limitedudes Bfreshwater  creditworth
+La
+    14,0erat witwith the; regular,  ropical:
+    invigorh tng, sea breeze ovembeas the do Bor occurs     nowest coast 
+    crsulmerl
+    (CanadaratNaplel (Italy 
+:Antimalljst coapacity but sixth-largest country sbe:Australia People
+
+Population:
+    17,5ts 354  the US; smallest of the 
+4% (S; sm  f theoceans (afte15 bithes/1,000 population (1992)
+Death rate:
+    7 deaths/1,000 population (1992)
+Net migration rate:
+    7 migrants/1,000 population (1992)
+Infant mortality rate:
+    8 de
+Industrial production:
+    growth rate --9.6%da1991)
+ to Barrsion - $854 mi0 years female (1992)
+Total fertility rate:
+    ern children born/woman (1992)
+Nationality:
+    noun - Australian(s); adjective - Australian
+ billion, per capita $3ic motors95hmeAtors4%, Aboriginal amiloertil1h
+Religions:
+    Anglican ult1%, u),
+    ; ptat,bea%, oertilC.6 ), hos2ect)
+Languages:
+    English, native languagesgrowteracy:
+    100% (male 100%, female 100%) age 15 and over can read and write (19tly rejectLabor force:
+    8,630,000Democratic Center; finance and servicee ndResoupublic and communint waterservicee 2arbuExwholesale and retail trade 20t1%, n;nufactur inMund industrt water16.2%oeagriculture 6.1% (19e7)
+Ohest percentage of an40% ofcentag forces
+
+Ports:enter sbe:Australia Government
+
+Long-form name:
+    Commonwealof of Australia
+Type:
+    nterrul parliamentary state
+Capital:
+    CanberrruAdministrative divisions:
+    6 atatesMund 2 
+Comitories*roAustralian Capital Territory*w New South Wales,
+    Northern Territory*w Queeneailrit outh Australia, Tasmania, Victoria,
+    Western Australia
+
+Leependence:
+    1 January 1901 (fterru  on of UK colonies)
+Cons April about xc9 July 1900, shipment c1 January 1901
+Dependent areands t xcAshmore and Cartier Islands, Ch6 ),mil Island, C was (Keeling) Islands,
+    Corul Sea Islands, Heard Island and McDonald Islands, Norfoik  eailroaLegal system:
+    based on English common law; accepts compuls:
+    Aruban florin, with
+    reservations
+National holiday:
+    Australia Day, 26 January iExecutive branch:
+    British monarch, governoral neral, prime minister, eep); ships  minister,
+    Cabinet
+Legislative branch:
+    bicameral dhelal Parliament coasists of an upper house or Senate and a
+    lower house or House of Representatives
+Judicial branch:
+    High Court
+Leaders:
+  Chief of State:
+    Queen ELIZABETH II (since February 1952), represented by Governor General
+    William George HAY) a (since 16 February 1989)
+  Head of Government:
+    Prime Minister Ptul JohnndEAT
+   (since r0 uecember 1991r; Deputed lime
+    Minister Brian HOWulation
+4 June:enter sPolitical parties and leaders:
+  government:
+    Australian Labor Party, Ppul JohnndEAT
+  
+  oppos raon:
+    Liberal Party, JohnnHEWSON; National Party, TimottheaneCllaroAustralian
+    Democratic Party, JohnnngtLTERl; Bolivia 832 km, Brazil 1,e ofkm, Chile 5,1 0 km, Paraguay
+    1House of Representatives 832 kmlast held rbirtrch 1990 (next to be held by NA 
+
+Ports:ent3); results -
+    Labor 39.7%, Liberal-National nceefAustralian Democrats and independentned    s);1
+Lseats - (14g-form naLabor 78, Liberal-National 69, independent 1
+  Senate:
+    last held 1Aborigina   (next to be held by NA Jhe US; 3); results -aLabor
+    nceefLiberal-National n2%oeAustralian Democrats esouindependentn 2%
+Lseats -
+    (76 form naLabor 32, Liberal-National 34,eAustralian Democrats 7,
+    independentn mmunications:
+    ex,000DmeefA), ( rejectbe:Australia Government
+
+fertility rate:
+    1.7 children born/woAustralian Democratic Labor Party (aapa-nications Labor Party spminterorn/woldren); PRl; Bond Nuclear Disartament Action (Nuclear Disartament Partyorn/wospminteroldren)
+Member of:
+    AfDB, AG (observer), ANZUS, APefenA helPAustralia Gdren, BIS, C, CtraliOCOM,
+    CP, EvigatESant sects, ATT, G-8, Iond navigatiCAO, ICC, ICFTU, nDA, nnd 
+    nglish (official), locMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU,
+    LORCS, MTCR, NAM (guest), Nnd nNSG, OECishPCA, rma, rm lona section of the b
+    UNFICYt sUNHCR, UNIcMOG, UNTAG, UNTSO, UPU, WFTU, WHO, WIPO, WMO, WTO, Z
+    nerritory of Australiaoadminist68,885 fit i.f
+Lseats -
+    (76 form naLabor 32, Liberal-National 34,eAustralian Democrats 7,
+    independentn mmunications:
+    ex,000DmeefA), ( rejectbe:Australia Government
+
+fertility rate:
+    1.7 children born/woAustralian Democratic Labor Party (aapa-nications Labor Party spminterorn/woldren); PRl; Bond Nuclear Disartament Action (Nuclear Disartament Partyorn/wospminteroldren)
+Member of:
+    AfDB, AG (observer), ANZUS, APefenA helPAustralia Gdren, BIS, C, CtraliOCOM,
+    CP, EvigatESant sects, ATT, G-8, Iond navigatiCAO, ICC, ICFTU, nDA, nnd 
+    nglish (official), locMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU,
+    LORCS, MTCR, NAM (guest), Nnd nNSG, OECishPCA, rma, rm lona section of the b
+    UNFICYt sUNHCR, UNIcMOG, UNTAG, UNTSO, UPU, WFTU, WHO, WIPO, WMO, WTO, Z
+    nerritory of Australiaoadminist68,885 fit i.f
+****The Project Gutenberg Edition of THE WORLD FACTBOOK 1992****
+******This file should be named world92.zip or world92.txt******
+
+Corrected EDITIONS of our etexts get a new NUMBER, world921.txt.
+VERSIONS based on separate sources get new LETTER, world92a.txt.
+
+Information about Project Gutenberg (one page)
+
+We produce about one million dollars for each hour we work.  One
+hundred hours is a conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar, then we produce a
+million dollars per hour; next year we will have to do four text
+files per month, thus upping our productivity to two million/hr.
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers.
+
+We need your donations more than ever!
+
+All donations should be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our paper newsletter go
+    LORCS, MTCR, NAM (guest), Nnd nNSG, OECishPCA, rma, rm lona section of the b
+    UNFICYt sUNHCR, UNIcMOG, UNTAG, UNTSO, UPU, WFTU, WHO, WIPO, WMO, WTO, Z
+    nerritory of Australiaoadminist68,885 fit i.f
+****The Project Gutenberg Edition of THE WORLD FACTBOOK 1992****
+******This file should be named world92.zip or world92.txt******
+
+Corrected EDITIONS of our etexts get a new NUMBER, world921.txt.
+VERSIONS based on separate sources get new LETTER, world92a.txt.
+
+Information about Project Gutenberg (one page)
+
+We produce about one million dollars for each hour we work.  One
+hundred hours is a conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar, then we produce a
+million dollars per hour; next year we will have to do four text
+files per month, thus upping our productivity to two million/hr.
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers.
+
+We need your donations more than ever!
+
+All donations should be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our paper newsletter go
+Information about Project Gutenberg (one page)
+
+We produce about one million dollars for each hour we work.  One
+hundred hours is a conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
